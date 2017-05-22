@@ -66,5 +66,41 @@ Permiten mejorar la experiencia del usuario almacenando variables personalizadas
 
 *Opt-out*: https://tools.google.com/dlpage/gaoptout
 
+#### Cookies de redes sociales externas
 
+**Youtube**
+
+You Tube proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra web. La información enviada fuera de la UE a You Tube, son utilizadas por You Tube conforme sus políticas de privacidad.
+
+*Opt-out*: http://www.google.com/intl/es/policies/technologies/types/
+
+**Google Plus**
+
+Google Plus proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra web. La información enviada fuera de la UE a Google Plus, son utilizadas por Google Plus conforme sus políticas de privacidad.
+
+*Opt-out*: http://www.google.com/intl/es/policies/technologies/types/
+
+**Facebook**
+
+Facebook proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra web en tu perfil. La información enviada fuera de la UE a Facebook,relativa a las páginas que has visitado o sobre las cosas que te interesan, son utilizadas por Facebook conforme sus políticas de privacidad.
+
+*Opt-out*: https://www.facebook.com/help/cookies/
+
+**Twitter**
+
+Twitter proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra web. La información enviada fuera de la UE a Twitter, son utilizadas por Twitter conforme a sus políticas de privacidad.
+
+*Opt-out*: https://twitter.com/privacy?lang=es
+
+**LinkedIn**
+
+LinkedIn proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra web en tu perfil. La información enviada fuera de la UE a LinkedIn, relativa a las páginas que has visitado o sobre las cosas que te interesan, son utilizadas conforme a sus políticas de privacidad.
+
+*Opt-out*:https://www.linkedin.com/legal/cookie-policy?trk=hb_ft_cookie
+
+Los sistemas de opt-out específicos indicados en la tabla anterior respecto de la cookie de que se trate (estos sistemas pueden conllevar que se instale en su equipo una cookie &quot;de rechazo&quot; para que funcione su elección de desactivación); u otras herramientas de terceros, disponibles on line, que permiten a los usuarios detectar las cookies en cada sitio web que visita y gestionar su desactivación.
+
+ICOFUNDING no se hace responsable del contenido y veracidad de las políticas de privacidad de los terceros incluidas en esta política de cookies.
+
+Cualquier duda o cuestión que tenga sobre esta política de cookies, puede contactar con ICOFUNDING en http://icofunding.com
 
