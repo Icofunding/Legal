@@ -1,13 +1,13 @@
 ### POLÍTICA DE PRIVACIDAD
 
 
-En cumplimiento de lo establecido en la Ley Orgánica 15/99 de 13 de Diciembre de Protección de datos de carácter personal le informamos de que los datos personales comunicados serán incorporados a un fichero titularidad de Icofunding para las finalidades que se exponen a continuación, en función del tipo de servicio solicitado.
+En cumplimiento de lo establecido en la Ley Orgánica 15/99 de 13 de Diciembre de Protección de datos de carácter personal le informamos de que los datos personales comunicados serán incorporados a un fichero titularidad de ICOFUNDING para las finalidades que se exponen a continuación, en función del tipo de servicio solicitado.
 
 * Formulario PROMOCIONAL: remisión de información, novedades y promociones que pudieran ser de su interés, relacionadas con las actividades de ICOFUNDING.
 
 En todos los casos, sus datos podrán ser utilizados para el envío de comunicaciones comerciales electrónicas sobre servicios comercializados por ICOFUNDING, pudiendo en cualquier momento oponerse a dicho tratamiento con finalidad comercial enviando un correo electrónico a la dirección info@icofunding.com.
 
-El Usuario acepta expresamente el contenido del aviso legal que regula la prestación de losservicios.
+El Usuario acepta expresamente el contenido del Aviso Legal que regula la prestación de los servicios.
 
 El Usuario tiene reconocidos los derechos de acceso, rectificación, oposición y cancelación, los cuales podrán ser ejercitados gratuitamente mediante la remisión de una comunicación, adjuntando un documento que acredite su identidad e indicando expresamente el derecho que desea ejercitar a través del envío de un correo electrónico a la dirección info@icofunding.com.
 
