@@ -1,24 +1,24 @@
 # POLÍTICA DE COOKIES
 
-Antes de que empieces a navegar por la Web nos gustaría informarte que utilizamos cookies con diferentes finalidades en la Web http://icofunding.com, de tal forma que puedas decidir si quieres que las mismas se instalen en tu equipo o no.
+Antes de que empieces a navegar por la nos gustaría informarte de que utilizamos cookies con diferentes finalidades en la Web https://icofunding.com, de tal forma que puedas decidir si quieres que las mismas se instalen en tu equipo o no.
 
-En caso de continuar navegando en http://icofunding.com, ICOFUNDING deducirá que aceptas la instalación de las cookies, otorgándonos el consentimiento para poder instalarlas en tu equipo.
+En caso de continuar navegando en https://icofunding.com, ICOFUNDING deducirá que aceptas la instalación de las cookies, otorgándonos el consentimiento para poder instalarlas en tu equipo.
 
-## QUE SON LAS COOKIES
+## QUÉ SON LAS COOKIES
 
-Las cookies son pequeños archivos de información que se envían y almacenan en el equipo desde el que se accede a la Web http://icofunding.com (PC u ordenador personal, teléfono móvil, tableta o televisión conectada) facilitando el uso de la misma, para ofrecer un mejor servicio.
+Las cookies son pequeños archivos de información que se envían y almacenan en el equipo desde el que se accede a la Web https://icofunding.com (PC u ordenador personal, teléfono móvil, tableta, televisión conectada, etc.) facilitando el uso de la misma, para ofrecer un mejor servicio.
 
-La Web http://icofunding.com utiliza tanto cookies propias como de terceros que nos ayudan a mejorar la calidad, permitiéndonos comparar, recordar, controlar y entender como navegan nuestros usuarios a través de la Web, identificando qué es lo que encuentran útil y lo que no; y poder así, mejorar el proceso de navegación.
+La Web https://icofunding.com utiliza tanto cookies propias como de terceros que nos ayudan a mejorar la calidad, permitiéndonos comparar, recordar, controlar y entender como navegan nuestros usuarios a través de la Web, identificando qué es lo que encuentran útil y lo que no; y poder así, mejorar el proceso de navegación.
 
-Las cookies que utiliza la Web no dañan tu equipo. Únicamente, sirven para mejorar los servicios ofrecidos. Algunas son estrictamente necesarias para que la página funcione bien (técnicas y de personalización) y otras sirven para mejorar el rendimiento y experiencia como usuario (análisis, publicitarias y de publicidad comportamental).
+Las cookies que utiliza la Web no dañan tu equipo, únicamente sirven para mejorar los servicios ofrecidos. Algunas son estrictamente necesarias para que la página funcione bien (técnicas y de personalización) y otras sirven para mejorar el rendimiento y experiencia como usuario (análisis, publicitarias y de publicidad comportamental).
 
-La Web utiliza tanto cookies de sesión, temporales, como cookies permanentes. Las cookies de sesión almacenan datos mientras el usuario accede a la Web, caducan al cerrar el navegador; mientras que las cookies permanentes almacenan los datos en el terminal para que sean accedidos y utilizados en más de una sesión, suelen caducar cuando transcurre un periodo de tiempo que puede oscilar entre los dos meses y los dos años.
+La Web utiliza tanto cookies de sesión, temporales, como cookies permanentes. Las cookies de sesión almacenan datos mientras el usuario accede a la Web y caducan al cerrar el navegador; mientras que las cookies permanentes almacenan los datos en el terminal para que sean accedidos y utilizados en más de una sesión. Estas últimas suelen caducar cuando transcurre un periodo de tiempo que puede oscilar entre los dos meses y los dos años.
 
 ## DESACTIVACIÓN DE COOKIES. 
 
 Tienes la opción de permitir, bloquear o eliminar las cookies instaladas en tu equipo mediante la configuración de las opciones del navegador instalado en su equipo. Al desactivar cookies, algunos de los servicios disponibles podrían dejar de estar operativos. La forma de deshabilitar las cookies es diferente para cada navegador, pero normalmente puede hacerse desde el menú Herramientas u Opciones.
 
-También puede consultarse el menú de Ayuda del navegador dónde puedes encontrar instrucciones. El usuario podrá -en cualquier momento- elegir qué cookies quiere que funcionen en este sitio web mediante la configuración del navegador; por ejemplo:
+También puede consultarse el menú de Ayuda del navegador dónde puedes encontrar instrucciones. El usuario podrá -en cualquier momento- elegir qué cookies quiere que funcionen en este sitio Web mediante la configuración del navegador; por ejemplo:
 
 * Microsoft Internet Explorer
 * Mozilla Firefox
@@ -30,7 +30,7 @@ También puede consultarse el menú de Ayuda del navegador dónde puedes encontr
 
 Según la finalidad para la que se traten los datos obtenidos a través de las cookies, la Web puede utilizar:
 
-* **Cookies técnicas**: son aquéllas que permiten al usuario la navegación a través de una página web, plataforma o aplicación y la utilización de las diferentes opciones o servicios que en ella existan como, por ejemplo, controlar el tráfico y la comunicación de datos, identificar la sesión, acceder a partes de acceso restringido.
+* **Cookies técnicas**: son aquéllas que permiten al usuario la navegación a través de una página web, plataforma o aplicación, y la utilización de las diferentes opciones o servicios que en ella existan como, por ejemplo, controlar el tráfico y la comunicación de datos, identificar la sesión y acceder a partes de acceso restringido.
 
 * **Cookies de personalización**: son aquéllas que permiten al usuario acceder al servicio con algunas características de carácter general predefinidas en función de una serie de criterios en el terminal del usuario como por ejemplo serian el idioma, el tipo de navegador
 
@@ -70,35 +70,35 @@ Permiten mejorar la experiencia del usuario almacenando variables personalizadas
 
 **Youtube**
 
-You Tube proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra web. La información enviada fuera de la UE a You Tube, son utilizadas por You Tube conforme sus políticas de privacidad.
+You Tube proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra web. La información enviada fuera de la UE a You Tube es utilizada por You Tube conforme sus políticas de privacidad.
 
 *Opt-out*: http://www.google.com/intl/es/policies/technologies/types/
 
 **Google Plus**
 
-Google Plus proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra web. La información enviada fuera de la UE a Google Plus, son utilizadas por Google Plus conforme sus políticas de privacidad.
+Google Plus proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra Web. La información enviada fuera de la UE a Google Plus es utilizada por Google Plus conforme sus políticas de privacidad.
 
 *Opt-out*: http://www.google.com/intl/es/policies/technologies/types/
 
 **Facebook**
 
-Facebook proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra web en tu perfil. La información enviada fuera de la UE a Facebook,relativa a las páginas que has visitado o sobre las cosas que te interesan, son utilizadas por Facebook conforme sus políticas de privacidad.
+Facebook proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra Web en tu perfil. La información enviada fuera de la UE a Facebook,relativa a las páginas que has visitado o sobre las cosas que te interesan, es utilizada por Facebook conforme sus políticas de privacidad.
 
 *Opt-out*: https://www.facebook.com/help/cookies/
 
 **Twitter**
 
-Twitter proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra web. La información enviada fuera de la UE a Twitter, son utilizadas por Twitter conforme a sus políticas de privacidad.
+Twitter proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra Web. La información enviada fuera de la UE a Twitter es utilizada por Twitter conforme a sus políticas de privacidad.
 
 *Opt-out*: https://twitter.com/privacy?lang=es
 
 **LinkedIn**
 
-LinkedIn proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra web en tu perfil. La información enviada fuera de la UE a LinkedIn, relativa a las páginas que has visitado o sobre las cosas que te interesan, son utilizadas conforme a sus políticas de privacidad.
+LinkedIn proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra Web en tu perfil. La información enviada fuera de la UE a LinkedIn, relativa a las páginas que has visitado o sobre las cosas que te interesan es utilizada conforme a sus políticas de privacidad.
 
 *Opt-out*:https://www.linkedin.com/legal/cookie-policy?trk=hb_ft_cookie
 
-Los sistemas de opt-out específicos indicados en la tabla anterior respecto de la cookie de que se trate (estos sistemas pueden conllevar que se instale en su equipo una cookie &quot;de rechazo&quot; para que funcione su elección de desactivación); u otras herramientas de terceros, disponibles on line, que permiten a los usuarios detectar las cookies en cada sitio web que visita y gestionar su desactivación.
+Los sistemas de opt-out específicos indicados en la tabla anterior respecto de la cookie de que se trate (estos sistemas pueden conllevar que se instale en su equipo una cookie de rechazo; para que funcione su elección de desactivación); u otras herramientas de terceros, disponibles on line, que permiten a los usuarios detectar las cookies en cada sitio Web que visita y gestionar su desactivación.
 
 ICOFUNDING no se hace responsable del contenido y veracidad de las políticas de privacidad de los terceros incluidas en esta política de cookies.
 
