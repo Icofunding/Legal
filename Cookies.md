@@ -2,7 +2,7 @@
 
 Antes de que empieces a navegar por la nos gustaría informarte de que utilizamos cookies con diferentes finalidades en la Web https://icofunding.com, de tal forma que puedas decidir si quieres que las mismas se instalen en tu equipo o no.
 
-En caso de continuar navegando en https://icofunding.com, ICOFUNDING deducirá que aceptas la instalación de las cookies, otorgándonos el consentimiento para poder instalarlas en tu equipo.
+En caso de continuar navegando en https://icofunding.com, ICOFUNDING S.L. (en adelante, ICOFUNDING) deducirá que aceptas la instalación de las cookies, otorgándonos el consentimiento para poder instalarlas en tu equipo.
 
 ## QUÉ SON LAS COOKIES
 
@@ -102,5 +102,5 @@ Los sistemas de opt-out específicos indicados en la tabla anterior respecto de 
 
 ICOFUNDING no se hace responsable del contenido y veracidad de las políticas de privacidad de los terceros incluidas en esta política de cookies.
 
-Cualquier duda o cuestión que tenga sobre esta política de cookies, puede contactar con ICOFUNDING en http://icofunding.com
+Cualquier duda o cuestión que tenga sobre esta política de cookies, puede contactar con ICOFUNDING en info@icofunding.com
 
