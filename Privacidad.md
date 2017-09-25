@@ -1,7 +1,7 @@
 ### POLÍTICA DE PRIVACIDAD
 
 
-En cumplimiento de lo establecido en la Ley Orgánica 15/99 de 13 de Diciembre de Protección de datos de carácter personal le informamos de que los datos personales comunicados serán incorporados a un fichero titularidad de ICOFUNDING para las finalidades que se exponen a continuación, en función del tipo de servicio solicitado.
+En cumplimiento de lo establecido en la Ley Orgánica 15/99 de 13 de Diciembre de Protección de datos de carácter personal le informamos de que los datos personales comunicados serán incorporados a un fichero titularidad de la sociedad ICOFUNDING S.L., sociedad debidamente constituida en España con NIF B87890588 (en adelante, ICOFUNDING), para las finalidades que se exponen a continuación, en función del tipo de servicio solicitado.
 
 * Formulario PROMOCIONAL: remisión de información, novedades y promociones que pudieran ser de su interés, relacionadas con las actividades de ICOFUNDING.
 
