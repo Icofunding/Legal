@@ -4,7 +4,7 @@
 
 1. **What is Icofunding?**
 
-Icofunding is a platform designed to help you create and manage your own Initial Coin Offerings (ICOs). We also provide services to the ICO investors whereby controls are set to monitor ICOs in accordance with the initial established goals.
+Icofunding is a platform designed to help you create and manage your own Initial Coin Offerings (ICOs). We also provide services to the ICO buyers whereby controls are set to monitor ICOs in accordance with the initial established goals.
 
 With Icofunding, creating an ICO is a simple step process. You only need to create your company profile, set the parameters for the ICO, and a tailor-made smart contract will be automatically generated and deployed to the Ethereum blockchain.
 
@@ -24,7 +24,7 @@ This public process for the sale of Tokens could also be known as Initial Coin O
 
 Icofunding is for startups that want to launch an ICO to presale their product or services, or grant access to their network. 
 
-Icofunding also helps investors in the process of participating in the ICOs launched in the platform, providing access to the addresses of the smart contract that hold each ICO.
+Icofunding also helps token buyers in the process of participating in the ICOs launched in the platform, providing access to the addresses of the smart contract that hold each ICO.
 
 5. **Contact info**
 
