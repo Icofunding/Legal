@@ -54,7 +54,7 @@ Please sign up in our platform or subscribe to our mailing list to receive infor
 
 ## Payments
 
-1. **How long does it takes for payments to arrive?
+1. **How long does it takes for payments to arrive?**
 
 Transfer time depends on the functioning of the Ethereum network. En Ether transaction usually takes no more than one hour to be confirmed.
 
