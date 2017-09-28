@@ -22,7 +22,7 @@
 
 Users of this platform are able to create an account in order to launch their own **Token Sale** as **ICO Launcher**, or to purchase Token issued through a Token Sale, as **Token Buyers**. 
 
-By using Icofunding, as ICO Launcher or ICO buyer, including by simply navigating through the website, you agree that you and any person you allow to access to the platform through your account, will abide by this Terms and Conditions (the “Agreement”), which is set forth in its entirety below. 
+By using Icofunding, as ICO Launcher or Token Buyer, including by simply navigating through the website, you agree that you and any person you allow to access to the platform through your account, will abide by this Terms and Conditions (the “Agreement”), which is set forth in its entirety below. 
 
 This Agreement is between **you** and **Icofunding S.L.** (hereinafter, we, **Icofunding**, the **Platform** or the **Company**). This Agreement sets the conditions of your access to the platform and use the services and websites offered by the Company (the “Services”). Your access to and use of the Services are subject to your acceptance of and compliance with this Agreement. For more information, see Section [*] (Functioning of the Services).
 
