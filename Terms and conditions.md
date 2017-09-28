@@ -18,21 +18,21 @@
 
 ### 1. <a name="introduction">**Introduction**</a>
 
-**Icofunding** is a platform designed to help startups create and manage their own Token Sale or Initial Coin Offering (ICO). Icofunding also provides services to the Token Buyers whereby controls are set to monitor ICOs in accordance with the Initial established goals.
+**Icofunding** is a Platform designed to help startups create and manage their own Token Sale or Initial Coin Offering (ICO). Icofunding also provides Services to the Token Buyers whereby controls are set to monitor ICOs in accordance with the Initial established goals.
 
-Users of this platform are able to create an account in order to launch their own **Token Sale** as **ICO Launcher**, or to purchase Token issued through a Token Sale, as **Token Buyers**. 
+Users of this Platform are able to create an account in order to launch their own **Token Sale** as **ICO Launcher**, or to purchase Token issued through a Token Sale, as **Token Buyers**. 
 
-By using Icofunding, as ICO Launcher or Token Buyer, including by simply navigating through the website, you agree that you and any person you allow to access to the platform through your account, will abide by this Terms and Conditions (the “Agreement”), which is set forth in its entirety below. 
+By using Icofunding, as ICO Launcher or Token Buyer, including by simply navigating through the website, you agree that you and any person you allow to access to the Platform through your account, will abide by this Terms and Conditions (the “Agreement”), which is set forth in its entirety below. 
 
-This Agreement is between **you** and **Icofunding S.L.** (hereinafter, we, **Icofunding**, the **Platform** or the **Company**). This Agreement sets the conditions of your access to the platform and use the services and websites offered by the Company (the “Services”). Your access to and use of the Services are subject to your acceptance of and compliance with this Agreement. For more information, see Section [*] (Functioning of the Services).
+This Agreement is between **you** and **Icofunding S.L.** (hereinafter, **we**, **Icofunding**, the **Platform** or the **Company**). This Agreement sets the conditions of your access to the Platform and use the Services and websites offered by the Company (the “Services”). Your access to and use of the Services are subject to your acceptance of and compliance with this Agreement. For more information, see Section Functioning of the Services.
 
-Specific or technical terms used herein are defined in Section [*] (Definitions) of this Agreement.
+Specific or technical terms used herein are defined in Section Definitions of this Agreement.
 
-This Agreement sets forth terms on which ICO Launchers interact with Token buyers through the platform.
+This Agreement sets forth terms on which ICO Launchers interact with Token buyers through the Platform.
 
-**ICO LAUNCHERS**: If you are an ICO Launcher, you could upload information about your project, such as your business plan, Token features, roadmap, team info, among others to our platform https://icofunding.com - The “Site.
+**ICO LAUNCHERS**: If you are an ICO Launcher, you could upload information about your project, such as your business plan, Token features, roadmap, team info, among others to our Platform https://icofunding.com - The “Site".
 
-**TOKEN BUYERS**: Token Buyers must understand the risk of buying Tokens of early stage companies, including the possibility of loss and long period illiquidity. As Token buyer, you may participate in one of the Token Sales or Initial Coin Offerings through the platform.
+**TOKEN BUYERS**: Token Buyers must understand the risk of buying Tokens of early stage companies, including the possibility of loss and long period illiquidity. As Token buyer, you may participate in one of the Token Sales or Initial Coin Offerings through the Platform.
 
 **GENERAL USERS**: Certain parts of the Site will be visible to users who have not signed up. Those users, nevertheless, are bound by this Agreement.
 
@@ -112,7 +112,7 @@ event Approval(address indexed _owner, address indexed _spender, uint _value);
 
 #### F. “Ether” means Internal cryptocurrency of the Ethereum network. It´s a decentralized cryptocurrency required to execute Ethereum Smart Contracts.
 
-#### G. “Ethereum” means decentralized platform that allows the creation of Smart Contracts between peers. Any developer can create and publish distributed applications that perform Smart Contracts. Ethereum is the platform used to execute them.
+#### G. “Ethereum” means decentralized Platform that allows the creation of Smart Contracts between peers. Any developer can create and publish distributed applications that perform Smart Contracts. Ethereum is the Platform used to execute them.
 
 #### H. “ICO” or “Token Sale” means methodology that allows companies to pre-sell goods or services through the sale of Tokens in a Blockchain (Ethereum in the case of Tokens designed by ICOFUNDING). Said tokens represent the right to receive those goods and services.
 
