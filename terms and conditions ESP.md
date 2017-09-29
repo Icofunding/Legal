@@ -51,7 +51,6 @@ If you are an ICO Launcher, you could upload information about your project, suc
 
 ##### i.Difamar, calumniar, menospreciar, amenazar, acosar or intimidar a otros, incluyendo el uso de comentarios ofensivos relativos a la raza, nacionalidad, género, orientación sexual o discapacidad física;
 
-
 ##### ii. Utilizar cualquier contenido o lenguaje profano, obsceno, pornográfico u otro cuestionable;
 
 ##### iii. Promover o describir cómo llevar a cabo actos de violencia, tráfico o consumo de drogas ilegales o abuso de sustancias, o cualquier otra actividad ilegal;
@@ -66,211 +65,211 @@ If you are an ICO Launcher, you could upload information about your project, suc
 
 ##### viii. Interfere with or disrupt (or attempt to interfere with or disrupt) access and enjoyment of the Services of other users or any host or network, including, without limitation, creating or transmitting unwanted electronic communications such as “spam” to other users, overloading, flooding or mail-bombing the Services, or scripting the creation of Content in such a manner as to interfere with or create an undue burden on the Services;
 
-##### ix. Disparage, tarnish or otherwise harm, in the Company’s opinion, the Company and/or the Services;
+##### ix. Menospreciar, manchar o dañar a la Sociedad y/o los Servicios;
 
-##### x. Upload or transmit (or attempt to upload or transmit) any material that acts as a passive or active information collection or transmission mechanism, such as viruses, worms, Trojan horses, spyware, adware or any other malicious or invasive code or program;
+##### x. Alojar o transmitir (o tratar de alojar o transmitir) cualquier material que sirva de mecanismo de recogida o transmisión de información tales como virus, gusanos, troyanos, spyware o cualquier otro código o programa malicioso o invasivo.
 
-##### xi. Reverse engineer, decompile, reverse assemble, modify or attempt to discover or copy any software, source code or structure that the Services utilize to generate web pages or any software or other products or processes accessible through the Services;
+##### xi. Llevar a cabo ingenieras inversa, descompilaciones, modificaciones o tratar de descubrir o copiar cualquier software, código fuente o estructura de la que se sirvan los Servicios para generar páginas web o cualquier software u otros productos o procesos accesibles a través de los  servicios;
 
-##### xii. Access or search (or attempt to access or search) the Services by any means, such as any automated system or unauthorized script or software, other than currently available, published interfaces provide by Icofunding, unless you have been specifically allowed to do so in a separate Agreement with Icofiunding (note crawling the Services is permissible in accordance with this Agreement, but scraping the Services is expressly prohibited without the prior consent of Icofunding);
+##### xii. Acceder o buscar (o tratar de acceder o buscar) por cualquier medio los Servicios mediante sistemas, scripts o softwares no autorizados, distintos de las interfaces puestas a disposición por la Sociedad, a menos que el Usuario haya sido autorizado específicamente por Icofunding en un Acuerdo separado (los Servicios de "web scraping" están terminantemente prohibidos sin el previo consentimiento de Icofunding);
 
 ##### xiii. Remove, obscure or change any copyright, trademark, hyperlink or other proprietary rights notices contained in or on the Services or any website on which the Services are offered or on a third-party website and/or Company software on which Company code is embeddable or embedded on;
 
-##### xiv. Remove, obscure or change any notice, banner, advertisement or other branding on the Services;
+##### xiv. Eliminar, ocultar o cambiar cualquier aviso, banner, anuncio u otra marca en los Servicios;
 
-##### xv. Submit any Content or material that falsely expresses or implies that such Content or material is sponsored or endorsed by the Company;
+##### xv. Presentar cualquier Contenido o material que falsamente exprese o implique que dicho Contenido o material está patrocinado por la Compañía;
 
-##### xvi. Interfere with or circumvent any security feature of the Services or any feature that restricts or enforces limitations on use of or access to the Services, such as probing or scanning the vulnerability of any system, network or breach; or
+##### xvi. Interferir o eludir cualquier característica de seguridad de los Servicios o cualquier característica que restrinja o imponga limitaciones en el uso o el acceso a los Servicios, como sondear o escanear la vulnerabilidad de cualquier sistema, red o brecha de seguridad; o
 
-##### xvii. Sell access to the Services or any part thereof other than through a mechanism approved by the Company.
+##### xvii. Vender el acceso a los Servicios o cualquier parte de los mismos que no sea a través de un mecanismo aprobado por la Compañía.
 
-#### C. "Content" means any information, text, graphs or other materials uploaded, downloaded or otherwise appearing on the Services. You retain ownership of all Content you submit, post, display or otherwise make available on the Services.
+#### C. "Content" se refiere a cualquier información, texto, gráfico o cualquier otro material subido, descargado o que por cualquier otro medio aparezca en los Servicios. El usuario conservará la propiedad de todo el Contenido enviado, publicado, exhibido o puesto a disposición a través del Servicio.
 
-#### D. “Cryptocurrency” means digital medium of exchange that uses the blockchain technology to work (i.e. Bitcoin or Ether).
+#### D. “Cryptocurrency” hace referencia a cualquier medio digital de intercambio que utiliza la tecnología blockchain para funcionar (i.e. Bitcoin o Ether).
 
-#### E. “ERC20 (Token Standard)” means standard that describes the functions and events that a Token issued in the Ethereum network requires. In particular, as follows:
+#### E. “ERC20 (Token Standard)” Se trata de un estándar que describe las funciones y eventos que un Token emitido en Ethereum debe implementar. En concreto, las siguientes:
 
+```javascript
 // https://github.com/ethereum/EIPs/issues/20
 
 contract ERC20 {
+  function totalSupply() constant returns (uint totalSupply){}
+  function balanceOf(address _owner) constant returns (uint balance){}
+  function transfer(address _to, uint _value) returns (bool success){}
+  function transferFrom(address _from, address _to, uint _value) returns (bool success){}
+  function approve(address _spender, uint _value) returns (bool success){}
+  function allowance(address _owner, address _spender) constant returns (uint remaining){}
 
-function totalSupply() constant returns (uint totalSupply);
-
-function balanceOf(address _owner) constant returns (uint balance);
-
-function transfer(address _to, uint _value) returns (bool success);
-
-function transferFrom(address _from, address _to, uint _value) returns (bool success);
-
-function approve(address _spender, uint _value) returns (bool success);
-
-function allowance(address _owner, address _spender) constant returns (uint remaining);
-
-event Transfer(address indexed _from, address indexed _to, uint _value);
-
-event Approval(address indexed _owner, address indexed _spender, uint _value);
-
+  event Transfer(address indexed _from, address indexed _to, uint _value){}
+  event Approval(address indexed _owner, address indexed _spender, uint _value){}
 }
+```
 
-#### F. “Ether” means Internal cryptocurrency of the Ethereum network. It´s a decentralized cryptocurrency required to execute Ethereum Smart Contracts.
+#### F. “Ether” hace referencia a la criptodivisa interna de la red Ethereum. Se trata de una criptodivisa descentralizada para ejecutar los smart contracts de Ethereum. 
 
-#### G. “Ethereum” means decentralized platform that allows the creation of Smart Contracts between peers. Any developer can create and publish distributed applications that perform Smart Contracts. Ethereum is the platform used to execute them.
+#### G. “Ethereum” es una plataforma descentralizada que permite la creación de acuerdos de contratos inteligentes entre pares. Cualquier desarrollador puede crear y publicar aplicaciones distribuidas que realicen contratos inteligentes. 
 
-#### H. “ICO” or “Token Sale” means methodology that allows companies to pre-sell goods or services through the sale of Tokens in a Blockchain (Ethereum in the case of Tokens designed by ICOFUNDING). Said tokens represent the right to receive those goods and services.
+#### H. “ICO” o “Token Sale” hace referencia a una metodología que permite a las empresas prevender un producto o servicio, mediante la venta de Tokens en una Blockchain (Ethereum en el caso de los Tokens diseñados por ICOFUNDING). Dichos Tokens representan el derecho a recibir esos productos o servicios. 
 
-#### I. “Pre-ICO” means process of sale of Tokens that precedes an ICO, it normally involves a discount in the acquisition price of said Tokens.
+#### I. “Smart Contract” o "Contrato Inteligente" hace referencia a herramienta que permite ejecutar de manera autónoma y automática uno o varios términos de un contrato que sean objetivables mediante lógica booleana.
 
-#### J. “Smart Contract” means tool that allows the autonomous and automatic execution of one or several terms of a contract, as long as these are objective through Boolean logic.
+#### J. “Token” hace referencia a un registro contable en una base de datos distribuida (Blockchain).
 
-#### K. “Token” means representation of a record on a distributed ledger (Blockchain).
+#### K. “Token Sale” hace referencia a un proceso de venta pública de Tokens, normalmente utilizado como sinónimo de ICO. 
 
-#### L. “Token Sale” means public process for the sale of Tokens, normally used as a synonymous to ICO.
+#### L. “P2P” hace referencia a una red de ordenadores en la que todos o algunos aspectos funcionan sin clientes ni servidores fijos, sino una serie de nodos que se comportan como iguales entre sí. Es decir, actúan simultáneamente como clientes y servidores respecto a los demás nodos de la red. Las redes P2P permiten el intercambio directo de información, en cualquier formato, entre los ordenadores interconectados.
 
-#### M. “P2P” means computer network where all or several aspects of the network work without fixed clients or servers, but using a series of nodes that act as pairs with each other. That is to say, they act simultaneously as clients and servers with respect to the other nodes of the network. P2P networks allow the direct exchange of information, in any format, between two computers that are interconnected.
+#### M. “Pre-ICO” means process of sale of Tokens that precedes an ICO, it normally involves a discount in the acquisition price of said Tokens.
 
-### 3. <a name="users-obligations">**Users Obligations**</a>
+### 3. <a name="users-obligations">**Obligaciones de los Usuarios**</a>
 
-#### A. **To use the Service diligently**. 
+#### A. **Utilizar los Servicios Diligentemente**. 
 
-This means you are making the following statements
+Para poder utilizar el Servicio, el Usuario hace las siguientes declaraciones:
 
-##### i. Requirements to use the Platform and Icofunding's services:
+##### i. Requisitos para utilizar la Plataforma y los Servicios de Icofunding:
 
-###### a. That you are on legal age in your country
+###### a. Que es mayor de edad a efectos legales en su país.
 
-###### b. That you have the right, capacity and are enabled to enter into this Agreement on your own behalf on any entity for whom you are acting and to comply with any and all terms and conditions stated herein, and that if any aspect of your participation in Icofunding violates any law to which you are subjetct, you will cease using the Platform and it services and close your account;
+###### b. Que tiene derecho y capacidad de aceptar estos Términos en su propio nombre o en numbre de la entidad para la que actúa y para cumplir con todos los términos y condiciones establecidos y que si cualquier aspecto de su participación en Icofunding viola cualquier ley a la cual el Usuario está sujeto, dejará de utilizar la Plataforma y los Servicios y cerrará su cuenta;
 
-###### c. That yoy shall not use a fake name or email address owned or controlled by another person trying to impersonate that person or any other reason; or that you shall not use a User ID name subject to any rights of a person other than yourself without authorisation.
+###### c. Que no utilizará un nombre falso o dirección de correo electrónico propiedad o controlada por otra persona tratando de suplantarla o por cualquier otra razón; y que no utilizará un nombre de identificación de usuario sujeto a los derechos de una persona distinta sin autorización.
 
-###### d. That you will update your account information with Icofunding; and
+###### d. Que actualizará la información de su cuenta con Icofunding.
 
-##### ii. Regarding the use of Content and information.
+##### ii. En relación con el Contenido y la Información. 
 
-###### a. That you will only provide us with Content and Information that you have right to provide and allow us to display the referred content and information,.
+###### a. Que el Usuario sólo nos proporcionará el Contenido y la Información que tiene derecho a proporcionar y nos permite mostrar el Contenido e Información referidos.
 
-###### b. You own and/or control all rights in and to the Content and Information, and the and the right to grant all of the rights and licenses in these Terms and Conditions, and if you are the holder of such rights, the holder of such tights has completely and effectively waived all such rights and irrevocably granted you the right to grant the licenses stated above without the need for payment to you or any other person or entity;
+###### b. Que el Usuario posee y/o controla todos los derechos sobre el Contenido y la Información, y el y el derecho a conceder todos los derechos y licencias en estos términos y, si el Usuario es el titular de dichos derechos, el titular de dichos derechos ha renunciado a tales derechos y ha concedido al Usuario el derecho irrevocable a conceder los referidos derechos y licencias sin necesidad de pago al Usuario o a cualquier otra persona o entidad;
 
-###### c. That you have rights to all copyrights, trademarks, trade secrets, IP or other material provided by you for display by us.
+###### c. Que el usuario dispone de todos los derechos de copyright (derechos de autor), marcas comerciales, secretos comerciales, propiedad intelectual u otros materiales proporcionados por el Usuario para ser exhibidos por Icofunding.
 
-###### d. That you understand that your Content and Information may be republished and if you do not have the right to submit Content and Information for such use, it may subject you to liability. Icofunding will not be responsible or liable for any use of your Content and Information by Icofunding according to this Agreement; 
+###### d. Que el Usuario entiende que su Contenido e Información puede volver a publicarse y si no tiene derecho a enviar Contenido e Información para tal uso, ello quedará sometido a la responsabilidad del Usuario. Icofunding no será responsable de ningún uso que se haga de su Contenido e Información por Icofunding de acuerdo con estos Términos;
 
-###### e.	That you understand that Icofunding do not guarantee the completeness, truthfulness, accuracy or reliability of any Content, Information or communications posted on the Site;
+###### e.	Que el Usuario entiende que Icofunding no garantiza la integridad, exactitud o fiabilidad de cualquier Contenido, Información o comunicaciuones publicadas en la Web;
 
-###### f. That you understand that the Service may include advertisements related to the referred Content and Information, and you have no claim against Icofunding for the placement of advertising or similar content on the Services or about the display of any Content or other information from the Services.
+###### f. Que el Usuario entiende que el Servicio puede incluir anuncios relacionados con el Contenido e Información referidos y que no tiene derecho a reclamación contra Icofunding por la colocación de publicidad o contenido similar en los Servicios o sobre la exhibición de cualquier Contenido u otra información proviniente de los Servicios.
 
-##### iii. Requirements related to Token Purchases
+##### iii. Requisitos relativos a la Compra de Tokens
 
-###### a. You will only buy Tokens in Token Sales showed through the Platform after carefully reviewing the Terms of the Token Sale, organizational documents as well as any information provided through the Site and that you have reviewed and understand the risks found here;
+###### a. El usuario sólo comprara Tokens en Tokens Sales mostradas en la Plataforma después de revisar cuidadosamente los Términos de la Venta de Tokens, los documentos organizacionales, así como cualquier información proporcionada a través de la Web y que ha revisado y entiende los riesgos de dicha operación;
 
-###### b. You will use yout own judgement before making any decision to buy tokens involving what is you a material amount of money;
+###### b. El Usuario utilizará su propio juicio antes de tomar cualquier decisión de comprar tokens;
 
-###### c. That you will be responsible for complying with applicable law regarding any Token Purchase or Token Sale, including without limitation the determination of wether any Token Putchase complies with the terms of local law, whether the law of any country with jurisdiction over you or any Token Buyer).
+###### c. El Usuario será responsable de cumplir con la legislación aplicable relativa a la compra de Tokens o Token Sale, incluyendo, sin limitación, la determinación de si cualquier Compra de Tokens cumple con la legislación local y con la normativa de cualquier país que vincule al usuario o a cualquier Comprador de Tokens;
 
-###### d. To get professional advice to protect your interests (such as tax, accounting, legal or financial); and
+###### d. El usuario contratará el asesoramiento profesional necesario para proteger sus intereses (tales como los relativos a fiscalidad, contabilidad, legal o financiero).
 
-##### iv. You guarantee not to:
+##### iv. El Usuario garantiza que no:
 
-###### a. Violate the Community Rules of Icofunding, as defined in Section [*] (Definitions)
+###### a. Violará las Normas de la Comunidad de Icofunding, tal y como se define en la Sección "Definiciones"
 
-###### b. Expect Icofunding to evaluate, confirm or stand behind any user's assertion or recommend any Token Sale;
+###### b. Espera que Icofunding evalúe, confirme o respalde aseveraciones de ningun usuario o recomiende cualquier Venta de Tokens.
 
-###### c. Treat any Content, email or other information you receive by accesing to the Platform as a recommendation by Icofunding, an affiliate of Icofunding or any employee, partner, director, representative or or other agent of the foregoing (each a "Company Person") on which you should rely.
+###### c. Tratará ningún Contenido, email y otra información recibida por el acceso a la platadorma como una recomendación por parte de Icofunding o cualquiera de sus empleados, socios, directores, representantes ("Personas de la Sociedad"); 
 
-###### d. Use any Content Information acquired from Company Persons, Token Buyers or ICO Launchers, or otherwise through your use of the Services, for commercial activity outside of the Services, without prior written approval from Icofunding;
+###### d. Utilizará cualquier Contenido o Información adquirida de Personas de la Sociedad, Compradores de Tokens o ICO Launchers, o por el uso del Servicio, para actividades comerciales fuera del ámbito de los servicios sin autorización previa de Icofunding;
 
-###### e. Claim any right to access, view or alter any source code or object code of Icofunding;
+###### e. Reclamará cualquier derecho de acceso, visualización o de alteración del codigo fuente u objeto de Icofunding;
 
-###### f. Expect Icofunding to market services that might cause Icofunding to have to register as a broker dealer/agent or investment adviser with any Public Authority in any jurisdiction or to be treated as an underwritter; or
+###### f. Esperará que Icofunding comercialice servicios que puedan provocar que Icofunding tenga que registrarse como agente de bolsa o asesor financiero o de inversiones con cualquie Autoridad Pública en cualquier jurisdicción o ser tratado como asegurador; o
 
-###### g. To market competing services to people identified through Icofunding.
+###### g. Comercializar servicios que compitan con Icofunding a personas identificadas a través de Icofunding.
 
-#### B. **Indemnify Icofunding and Related Parties**.
+#### B. **Indemnizaciones**.
 
-You agree to indemnify Icogonding and any Company Person harmless from any claim, demand, expenses, costs or fees made by a third party due to or arising out of your access to or use of the Services or the violation of this Agreement or any applicable law by you or any third party using your account.
+El usuario acepta indemnizar a Icofunding o a cualquier Persona de la Sociedad de cualquier reclamación, demanda, gastos, costes u honorarios exigidos por un tercero derivado del acceso o uso de los Servicios o de la violación de estos Términos o cualquier ley aplicable al Usuario o tercero que utilice su cuenta.
 
-#### C. **Confidentiality**. 
+#### C. **Confidencialidad**. 
 
-You agree not to redistribute any information you acquire through the Services and/or the Platform, for which one of the principal purposes is to compete with Icofunding. You agree to keep confidentiality with respect to this agreement, and the terms agreed between Icofunding and the User, and specially the economic terms herein. 
+El usuario acepta no distribuir ninguna información adquirida a través del servicio y/o la Plataforma cuyo principal propósito sea el de competir con Icofunding. El usuario acepta mantener la confidencialidad en relación con estos términos ni sobre los términos acurdades entre Icofunding y el usuario, especialmente aquellos relativos a condiciones económicas.
 
-#### D. **Other Obligations**
+#### D. **Otras Obligaciones**
 
-##### i. To allow Icofunding uploaded to Icofunding.a limited, non-revocable license to publish all Content and Information.
+##### i. El Usuario otorga a Icofunsing de forma limitada y no revocable el derecho a publicar todo el Contenido e Información salvo que expresamente se acuerde lo contrario.
 
-##### ii. To acknowledge that Icofunding or any other party are not obligated to pay you any compensation with respect to your activities on Icofunding.
+##### ii. Reconocer que Icofunding o cualquier otra persona no está obligada a pagar ningún tipo de compensación en relación con la actividad del Usuario en Icofunding.
 
 #### E. **APIs**. 
 
-We may make available one or more APIs for interacting with the Services. Your use of any Icofunding API on the Site is subject to this Agreement and the Icofunding API Rules, which will be posted before we make these APIs available (and which will then become part of this Agreement). 
+Icofunding puede poner a disposición una o varias APIs (Application Programming Interface o Interfaz de Programación de Aplicaciones) para interactuar con los Servicios. El uso por parte del Usuario de las APIs de Icofunding en la Web está sujeto a los presentes Términos y a las reglas aplicables al uso de APIs de Icofunding, que serán publicadas antes de poner las APIs a disposición de los Usuarios y serán consideradas partes de estos Términos).
 
-### 4. <a name="dispute-with-others">**Dispute with Others**</a>
+### 4. <a name="dispute-with-others">**Disputas entre Usuarios**</a>
 
-Icofunding has the right to manage disputes betwieen you and other users, with no obligation with that regard.
+Icofunding se reserva el derecho a gestionar disputas entre Usuarios, sin tener obligación de hacerlo a tal efecto.
 
-### 5. <a name="company-rights">**Company Rights**</a>
+### 5. <a name="company-rights">**Derechos de la Sociedad**</a>
 
-#### i. **Right to Control Content**. 
+#### i. **Derecho a Controlar el Contenido**. 
 
-Icofunding may, but is not required to, monitor or control the Content posted via the Services. 
+Icofunding puede, sin estar requerido a ello, monitorizar o controlar el Contenido publicado a través de los Servicios. 
 
-#### ii. **Right to Discontinue the Services**
+#### ii. **Derecho a suspender los servicios**
 
-Icofunding has the right to discontinue the Services or to change the Services in any way and at any time, with or without notice to you, without liability.
+Icofunding se reserva el derecho a suspender los Servicios o a modificarlos de cualquier forma y en cualquier momento, con o sin conocimiento del Usuario y sin responsabilidad.
 
-#### iii. **Right to End User Access**
+#### iii. **Derecho a cancelar el acceso a un Usuario**
 
-Icofunding has the right to end your access to the Services without notice and.
+Icofunding se reserva el derecho a cancelar el acceso a los Servicios a cualquier usuario sin previo aviso.
 
-We may delete your account for any reason, and if we delete your account you will lose all access to any information, connections or other features that may have been associated with your account.
+Icofunding podrá eliminar cuentas de Usuario por cualquier razón y, si se elimina la cuenta, el Usuario perderá el acceso a cualquier información, conexiones o cualquie otra caracterstica asociada con su cuenta.
 
-#### iv. **Right to refuse or Cancel Registration**
+#### iv. **Derecho a rechazar o cancelar registros de Usuario**
 
-Icofunding has te right to deny registration or cancel an user account for any reason. Icofunding also has the right at all times to remove or refuse to dustrubut content on the Services and to terminate users and reclaim user names.
+Icofunding se reserva el derecho a denegar un registro o cancelar una cuenta de usuario por cualquier razón. Icofunding también se reserva el derecho a eliminar o rechazar cualquier Contenido sobre los Servicios y a eliminar usuarios y nombres de usuario.
 
-Icofunding also has the right to access, read, preserve, and disclose any information if it is necessary to
+Icofunding se reserva también el derecho a acceder, leer, preservar y revelar cualquier información si es necesaria para:
 
-* Satisfy any applicable law, regulation, legal process or governmental request;
+* Satisfacer cualquier requerimiento exigido por cualquier ley, regulación o proceso legal o gubernamental;
 
-* Enforce this Agreement (including investigation of potential violations hereof);
+* Ejecutar estos Términos (icluyendo la investigación o potenciales violaciones del mismo);
 
-* Detect, prevent or otherwise address fraud, security or technical issues;
+* Detectar, prevenir o tratar de cualquier forma cualquier tipo de fraude o contingencias técnicas o de seguridad.
 
-* Respond to user support requests; or
+* Responder a las solicitudes de soporte de los usuarios; or
 
-* Protect the rights, property or safety of Icofunding, its users and the public.
+* Proteger los derechos, la propiedad y la seguridad de Icofunding, sus Usuarios y el Público.
 
-#### v. **User Acknowledgement**
+#### v. **Confirmación del Usuario**
+
+El usuario acepta que Icofunding está exento de responsabilidad frente a cualquier persona por cualquier reclamación basada en el cierre de una cuenta o inhabilitación del acceso a la misma o a la eliminación de cualquier Contenido. 
+
+El usuario acepta que Icofunding está exento de responsabilidad ante cualquier persona con respecto a cualquier reclamación basada en la cancelación de cuentas o inhabilitación del acceso o la eliminación de Contenido. Mediante el uso de los Servicios, el Usuario acepta que la notificación al mismo mediante e-mail a la dirección de correo proporcionada por del usuario constituye una notificación formal de cualquier eliminación o inhabilitación si dicha notificación es requerida.
 
 You agree that Icofunding is exempt from liability to any person for any claim based upon its termination of an account or disabling of access to or removal of any Content. By using the Services, you agree that notice to you through an email to the email address you provided in your profile constitutes notification of any removal or disabling if such notice is required.
 
-### 6. <a name="limits-on-icofundings-obligations">**Limits on Icofunding's Obligations**</a>
+### 6. <a name="limits-on-icofundings-obligations">**Límites a las Obligaciones de Icofunding**</a>
 
-#### A. **Verifying Due Diligence**
+#### A. **Verificaciones de Diligencia Debida**
 
-We are not obligated to practice due diligence on ICO Launchers, Token Buyers or other users or verifying any representations, materials or information provided by them.
+Icofunding no está obligada a llevar a cabo ninguna medida de Diligencia Debida sobre ICO Launchers, Compradores de tokens o cualquier otro Usuario o a verificar cualquier representación, material o información provista por los mismos.
 
-#### B. **Verifying Accredited Investors**
+#### B. **Verificación de Inversores Acreditados**
 
-As Icofunding IS NOT AN INVESTMENT PLATFORM, we are not responsible for verifying that any Token Buyer is accredited, is a Qualifyed purchaser or authorized or appropiate to participate in an ICO or Token Sale, or for determining whether any use of Icofunding constitutes a general solicitation of securities under the securities laws of any jurisdiction.
+Dado que Icofunging NO ES UNA PLATAFORMA DE INVERSIÓN, la Sociedad no se hace responsable de la verificación o chequeo sobre si un Comprador de Tokens está o no acreditado, es un Comprador Cualificado o Autorizado o apto para participar en una ICO o Token Sale, o a determinar si cualquier uso de los servicios de Icofunding constituyen una emisión de valores bajo la normativa relativa a Mercado de Valores de cualquier jurisdicción.
 
-#### C. **Confidentiality** 
+#### C. **Confidencialidad** 
 
-We are not obligated to maintain the confidentiality of any Content of information you give to us, unless there is a Non-Disclosure Agreement signed between you and Icofunding.
+Icofunding no está obligada a guardar confidencialidad de ningún Contenido o Información aportado por el Usuario.
 
-#### D. **Verify Advertisement Accuracy**
+#### D. **Verificación de la exactitud de la publicidad**
 
-The Services may contain or deliver advertising and sponsorships.a.	Advertisers and sponsors are responsible for ensuring that material submitted for inclusion is accurate and complies with applicable laws. We are not responsible for the illegality or any error, inaccuracy or problem in an advertiser’s or sponsor’s Content.
+Los Servicios pueden contener o remitir publicidad o patrocinios.
 
-### 7. <a name="disclamers-limitations-waivers-of-liability">**Disclamers; Limitations; Waivers of Liability**</a>
+Los anunciantes y patrocinadores son responsables de asegurar que el material proporcionado para ser incluido en los servicios es adecuado y que cumple con la legislación aplicable. Icofunding no se hace responsable de cualquier ilegalidad o error, inexactitud a problema sobre el Contenido de un anunciante o patrocinador.
 
-#### A. The company is not responsible for any technical malfunction or other problems of any telephone network or service, computer systems, servers or providers, computer or mobile phone equipment, software, failure of email or media players on account of technical problems or traffic congestion on the internet or at any website or combination thereof, including injury or damage to your or to any other person’s computer, mobile phone or other hardware or software, related to or resulting from using or downloading materials in connection with the web and/or in connection with the services, including any mobile software. Under no circumstances will the company be responsible for any loss or damage, including any loss or damage to any content or personal injury or death, resulting from anyone’s use of the services, any content or third party applications, software or content posted on or through the services or transmitted to users or any interactions between users of the services, whether online or offline.
+### 7. <a name="disclamers-limitations-waivers-of-liability">**Consentimiento Informado; Limitaciones; Exoneraciones de responsabilidad**</a>
 
-#### B.	Icofunding is not liable for any temporary or permanent anomaly or malfunction of the Ethereum blockchain network or any software used to interact with the referred network. In this sense, Icofunding will not be liable for potential “hacks” or thefts that could take place, either in the network or from the virtual wallets of the users, or from the hosts of said virtual wallets.
+#### A. La Sociedad no se hace responsable de ningún fallo técnico u otros problemas de cualquier red o servicio telefónico, sistemas informáticos, servidores o proveedores, equipos informáticos o de telefonía móvil, software, fallos de correo electrónico o reproductores de medios debido a problemas técnicos o congestión de tráfico en la red de Internet o en cualquier sitio web o combinación de los mismos, incluyendo lesiones o daños a su computadora, teléfono móvil u otro hardware o software relacionado o resultantes del uso o descarga de materiales relacionados con la web y/o en relación con los servicios, incluido cualquier software móvil. Bajo ninguna circunstancia la Sociedad será responsable de ninguna pérdida o daño, incluyendo cualquier pérdida o daño a cualquier contenido o lesión personal, resultante del uso de cualquiera de los Servicios, cualquier contenido o aplicaciones de terceros, software o contenido publicado en oa través de los servicios o transmitidos a los usuarios o cualquier interacción entre los usuarios de los servicios, ya sea en línea o fuera de línea.
 
-#### C.	As Icofunding shall not at no time have direct or indirect control of the funds received by any ICO Launcher from any sale of Tokens, Icofunding will not be responsible in any way for the tax and anti-money laundering compliance obligations derived from said funds.
+#### B.	Icofunding no se hace responsable de ninguna anomalía o mal funcionamiento temporal o permanente de la Blockchain de Ethereum o de cualquier software utilizado para interactuar con la referida Blockchain. En este sentido, Icofunding no se hará responsable de ningún potencial "hackeo" o robo que pueda producirse, ni relativo a la red, ni relativo a los "wallets" de los usuarios, ni sobre el hosting de los referidos wallets.
 
-#### D.	ICO Launchers will in any case be responsible for the tax compliance, anti-money laundering compliance and any other regulation that may be applicable.
+#### C.	Dado que Icofunding no tiene, en ningún momento, contacto directo sobre los fondos recibidos por ningún ICO Launcher en ningun Token Sale o ICO, Icofunding no se hace responsable en ningún caso de las obligaciones legales, incluidas las obligaciones fiscales, de prevención de blanqueo de capitales o financieras, derivadas de dichos fondos.
 
-### 8. <a name="term-and-termination-of-the-agreement">**Term and Termination of the Agreement**</a>
+#### D.	Los ICO Launchers no serán responsables del cumplimiento normativo en materia de fiscalidad, prevención de blanqueo de capitales y de cualquier otra regulación que pueda ser aplicable.
+
+### 8. <a name="term-and-termination-of-the-agreement">**Plazo y finalización del contrato**</a>
 
 #### A. Unless terminated by Icofunding, this Agreement will remain in full force and effect whule you use the Services.
 
