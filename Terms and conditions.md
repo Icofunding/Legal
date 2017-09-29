@@ -129,19 +129,19 @@ This means you are making the following statements
 
 ##### i. Requirements to use the Platform and Icofunding's services:
 
-###### a. That you are on legal age in your country
+###### a. That you are on legal age in your country.
 
-###### b. That you have the right, capacity and are enabled to enter into this Agreement on your own behalf on any entity for whom you are acting and to comply with any and all terms and conditions stated herein, and that if any aspect of your participation in Icofunding violates any law to which you are subjetct, you will cease using the Platform and it services and close your account;
+###### b. That you have the right, capacity and are enabled to enter into this Agreement on your own behalf on any entity for whom you are acting and to comply with any and all terms and conditions stated herein, and that if any aspect of your participation in Icofunding violates any law to which you are subject, you will cease using the Platform and it Services and close your account;
 
-###### c. That yoy shall not use a fake name or email address owned or controlled by another person trying to impersonate that person or any other reason; or that you shall not use a User ID name subject to any rights of a person other than yourself without authorisation.
+###### c. That you shall not use a fake name or email address owned or controlled by another person trying to impersonate that person or any other reason; or that you shall not use a User ID name subject to any rights of a person other than yourself without authorisation.
 
-###### d. That you will update your account information with Icofunding; and
+###### d. That you will update your account information with Icofunding.
 
 ##### ii. Regarding the use of Content and information.
 
-###### a. That you will only provide us with Content and Information that you have right to provide and allow us to display the referred content and information,.
+###### a. That you will only provide us with Content and Information that you have right to provide and allow us to display the referred content and information.
 
-###### b. You own and/or control all rights in and to the Content and Information, and the and the right to grant all of the rights and licenses in these Terms and Conditions, and if you are the holder of such rights, the holder of such tights has completely and effectively waived all such rights and irrevocably granted you the right to grant the licenses stated above without the need for payment to you or any other person or entity;
+###### b. You own and/or control all rights in and to the Content and Information, and the right to grant all of the rights and licenses in these Terms and Conditions, and if you are the holder of such rights, the holder of such tights has completely and effectively waived all such rights and irrevocably granted you the right to grant the licenses stated above without the need for payment to you or any other person or entity;
 
 ###### c. That you have rights to all copyrights, trademarks, trade secrets, IP or other material provided by you for display by us.
 
@@ -155,21 +155,21 @@ This means you are making the following statements
 
 ###### a. You will only buy Tokens in Token Sales showed through the Platform after carefully reviewing the Terms of the Token Sale, organizational documents as well as any information provided through the Site and that you have reviewed and understand the risks found here;
 
-###### b. You will use yout own judgement before making any decision to buy tokens involving what is you a material amount of money;
+###### b. You will use your own judgement before making any decision to buy tokens involving what is you a material amount of money;
 
-###### c. That you will be responsible for complying with applicable law regarding any Token Purchase or Token Sale, including without limitation the determination of wether any Token Putchase complies with the terms of local law, whether the law of any country with jurisdiction over you or any Token Buyer).
+###### c. That you will be responsible for complying with applicable law regarding any Token Purchase or Token Sale, including without limitation the determination of wether any Token Purchase complies with the terms of local law, whether the law of any country with jurisdiction over you or any Token Buyer.
 
-###### d. To get professional advice to protect your interests (such as tax, accounting, legal or financial); and
+###### d. To get professional advice to protect your interests (such as tax, accounting, legal or financial).
 
 ##### iv. You guarantee not to:
 
-###### a. Violate the Community Rules of Icofunding, as defined in Section [*] (Definitions)
+###### a. Violate the Community Rules of Icofunding, as defined in Section "Definitions"
 
 ###### b. Expect Icofunding to evaluate, confirm or stand behind any user's assertion or recommend any Token Sale;
 
 ###### c. Treat any Content, email or other information you receive by accesing to the Platform as a recommendation by Icofunding, an affiliate of Icofunding or any employee, partner, director, representative or or other agent of the foregoing (each a "Company Person") on which you should rely.
 
-###### d. Use any Content Information acquired from Company Persons, Token Buyers or ICO Launchers, or otherwise through your use of the Services, for commercial activity outside of the Services, without prior written approval from Icofunding;
+###### d. Use any Content or Information acquired from Company Persons, Token Buyers or ICO Launchers, or otherwise through your use of the Services, for commercial activity outside of the Services, without prior written approval from Icofunding;
 
 ###### e. Claim any right to access, view or alter any source code or object code of Icofunding;
 
@@ -179,7 +179,7 @@ This means you are making the following statements
 
 #### B. **Indemnify Icofunding and Related Parties**.
 
-You agree to indemnify Icogonding and any Company Person harmless from any claim, demand, expenses, costs or fees made by a third party due to or arising out of your access to or use of the Services or the violation of this Agreement or any applicable law by you or any third party using your account.
+You agree to indemnify Icofunding and any Company Person harmless from any claim, demand, expenses, costs or fees made by a third party due to or arising out of your access to or use of the Services or the violation of this Agreement or any applicable law by you or any third party using your account.
 
 #### C. **Confidentiality**. 
 
