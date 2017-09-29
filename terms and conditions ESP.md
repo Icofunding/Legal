@@ -271,25 +271,24 @@ Los anunciantes y patrocinadores son responsables de asegurar que el material pr
 
 ### 8. <a name="term-and-termination-of-the-agreement">**Plazo y finalización del contrato**</a>
 
-#### A. Unless terminated by Icofunding, this Agreement will remain in full force and effect whule you use the Services.
+#### A. A menos que sea rescindido por Icofunding, estos Términos tendran plenos efectos y validez mientras el Usuario haga uso de los Servicios.
 
-#### B. Subject to the last sentence of this Section, you may terminate this Agreement at any time by deleting all Content you have provided to Icofunding and ceasing to use the Services.
+#### B. Sujeto al último punto de esta sección, el Usuario podrá rescindir sus obligaciones en virtud de este acuerdo eliminando todo el Contenido e Información proporcionada a Icofunding y dejando de utilizar los Servicios.
 
-#### C. The Company may terminate this Agreement at any time, particularly if you are suspected of violating any provision of this Agreement.
+#### C. La Sociedad podrá rescindir el presente Acuerdo en cualquier momento, especialmente si existieren sospechas de violación de cualquier previsión de estos Términos.
 
-#### D. Your representations in this Agreement and the provisions related to the users obligations and any other provision of this Agreement which by their nature are designed to survive termination shall survive any termination or expiration of this Agreement.
 
-### 9. <a name="copyright-policy">**Copyright Policy**</a>
+#### D. La representación del Usuario en estos Términos y las previsiones relativas a las Obligaciones de los Usuarios y cualquier otra previsión de los presentes Términos que, por su naturaleza, deban subsistir a su finalización, subsistirán cualquier finalización o expiración del presente Acuerdo.
 
-Icofunding respects intellectual property rights and expects its users to do the same. If you are a copyright holder, or its agent, and you believe that any of the copyrighted material which is directly available via the Service infringes your copyrighted work, please let us know.
+### 9. <a name="copyright-policy">**Derechos de Autor**</a>
 
-Please write to support@icofunding.com to submit a notice of alleged copyright infringement. Alternatively a notice of alleged copyright infringement may be sent to Icofunding's designated copyright agent at the following address:
+Icofunding respeta los derechos de propiedad intelectual y espera que sus usuarios hagan lo mismo. Si el Usuario es titular de derechos de autor o copyright, o su agente, y considera que alguno de los materiales protegidos con copyright que están disponibles directamente a través del Servicio vulnera sus derechos, puede y debe hacérnoslo saber mediante email a support@icofunding.com allegando un inclumplimiento en materia de derechos de autor. Alternativamente puede enviar una notificación a Icofunding a la siguiente dirección postal:
 
 Icofunding SL.
 Calle Cristobal Bordiú 13, Entreplanta B
-MAdrid, 28003, Spain
+Madrid, 28003, Spain
 
-A notification of alleged copyright infringement must be addressed to Icofunding as listed above. Please include as much detail as possible to allow us to identify the facts or circumstances, including, where possible:
+Debe dirigirse una notificación de la supuesta infracción de derechos de autor o copyright al agente de copyright de Icofunding como se indica arriba. Por favor incluya información lo más detallada posible para que podamos identificar los hechos y circunstancias, incluyendo, en la medida de lo posible:
 
 * A physical or electronic signature of the owner (or person authorised to act on behalf of the owner) of the copyright that is allegedly infringed;
 * Specific identification of each copyrighted work claimed to have been infringed;
