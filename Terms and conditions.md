@@ -88,6 +88,8 @@ This Agreement sets forth terms on which ICO Launchers interact with Token buyer
 
 #### E. “ERC20 (Token Standard)” means standard that describes the functions and events that a Token issued in the Ethereum network requires. In particular, as follows:
 
+```javascript
+
 // https://github.com/ethereum/EIPs/issues/20
 
 contract ERC20 {
@@ -109,6 +111,7 @@ event Transfer(address indexed _from, address indexed _to, uint _value);
 event Approval(address indexed _owner, address indexed _spender, uint _value);
 
 }
+```
 
 #### F. “Ether” means Internal cryptocurrency of the Ethereum network. It´s a decentralized cryptocurrency required to execute Ethereum Smart Contracts.
 
