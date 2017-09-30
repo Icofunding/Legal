@@ -290,56 +290,62 @@ Madrid, 28003, Spain
 
 Debe dirigirse una notificación de la supuesta infracción de derechos de autor o copyright al agente de copyright de Icofunding como se indica arriba. Por favor incluya información lo más detallada posible para que podamos identificar los hechos y circunstancias, incluyendo, en la medida de lo posible:
 
-* A physical or electronic signature of the owner (or person authorised to act on behalf of the owner) of the copyright that is allegedly infringed;
-* Specific identification of each copyrighted work claimed to have been infringed;
-* A description of where the material believed to be infringing is located on Icofunding Platform or the Site (please be as detailed as possible and provide a URL to help us locate the material you are reporting);
-* Contact information for the complaining party, such as a complete name, address, telephone number, and email address;
-* A statement that the complaining party has a good faith belief that use of the work(s) in the manner complained of is not authorised by the copyright owner, its agent, or the law; and
-* A statement that the information in the notification is accurate, and that the complaining party is the owner of the right that is allegedly infringed, or agent for the owner.
-* We should also let you know that Icofunding has a policy to terminate in appropriate circumstances the accounts of subscribers who are repeat infringers.
+* Una firma manuscrita o electrónica del titular de los derechos de autor o copyright supuestamente infringidos (o de la persona autorizada para actuar en su nombre);
 
-Copyright © 2017 Icofunding S.L. All rights reserved.
+* Identificación específica de cada obra cuyos derechos de autor o copyright hayan sido supuestamente infringidos;
 
-### 10. <a name="privacy-policy">**Privacy Policy**</a>
+* Una descripción de dónde se halla localizado en el Servicio de Icofunding o las Webs de Icofunding el material cuyos derechos de autor o copyright se consideran infringidos (por favor provea el máximo detalle posible y facilite una URL para ayudarnos a localizar el material que está denunciando);
 
-Please review our [Privacy Policy](https://github.com/Icofunding/Legal/blob/master/Privacidad.md) to understand how we collect information about companies and individuals through our Platform and Site.
+* Información de contacto de la parte reclamante, tal como el nombre completo, dirección, número de teléfono y dirección de correo electrónico;
 
-Icofunding can modify or update the Privacy Policy from time to time and you should review this page and the Privacy Policy link periodically. Your continued use of the Service after any such change constitutes your acceptance of the new Terms of Use and Privacy Policy. If you do not agree to any of these terms or any future Terms and Conditions or Privacy Policy terms, do not use or access (or continue to access) the Service.
+* Una declaración conforme la parte reclamante cree de buena fe que el uso del (de los) trabajo(s) en el modo por el que se reclama no está autorizado por el titular de los derechos de copyright, su agente, o la ley; y
 
-### 11. <a name="observations">**Observations**</a>
+* Una declaración conforme la información proporcionada en la notificación es precisa, y la parte reclamante es la titular del derecho supuestamente infringido, o su agente.
 
-#### A. **Functioning of the Services**
+Copyright © 2017 Icofunding S.L. Todos los derechos reservados.
 
-The Company operates and controls the Services from its offices in Spain. The Company makes no representation that the Services are appropriate or available in other locations. The information provided on or through the Services is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject the Company to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Services from other locations do so at their own risk and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
+### 10. <a name="privacy-policy">**Política de Privacidad**</a>
 
-#### B. **Amendments to this Agreement** 
+Nuestra [PPolítica de Privacidad](https://github.com/Icofunding/Legal/blob/master/Privacidad.md) muestra como recogemos información sobre Personas Físicas y Jurídicas a través de la Plataforma o la Web.
 
-We may amend this Agreement at any time in our sole discretion, effective upon posting the amended Terms and Conditions at the domain of https://icofunding.com where the prior version of this Agreement was posted or by communicating these changes through any written or other contact method we have established with you. Your use of the Services following the date on which such amended Terms are published will constitute consent to such amendments. Neither the course of conduct between the parties nor trade practice will act to modify this Agreement.
+Icofunding puede modificar o actualizar su Política de Privacidad en cualquier momento y el Usuario debe revisar estos Términos y la citada Política de Privacidad periódicamente. El uso continuado del Servicio después de darse cualquier cambio en los Términos o en la Política de privacidad implica la aceptación por parte del Usuario de los mismos. Si el usuario no está de acuerdo con estos Términos o con la Política de Privacidad deberá de utilizar o acceder a los Servicios.
 
-#### C. Waiver and Severability
+### 11. <a name="observations">**Observaciones**</a>
 
-##### i. The failure of the Company to require or enforce strict performance by you of any provision of this Agreement or to exercise any right under this Agreement shall not be construed as a waiver or relinquishment of the Company’s right to assert or rely upon any such provision or right in that or any other instance. In fact, the Company may choose to enforce certain portions of this Agreement more strictly or to interpret certain provisions more strictly against certain users than it does against users in general, and such disparate treatment shall not be grounds for failing to comply with all this Agreement as so interpreted.
+#### A. **Funcionamiento de los Servicios**
 
-##### ii. You and the Company agree that if any portion of this Agreement, is found illegal or unenforceable, in whole or in part by any court of competent jurisdiction, such provision shall, as to such jurisdiction, be ineffective to the extent of such determination of invalidity or unenforceability without affecting the validity or enforceability thereof in any other manner or jurisdiction and without affecting the remaining provisions of this Agreement, which shall continue to be in full force and effect.
+La Sociedad opera y controla los servicios desde sus oficinas en España. The Company operates and controls the Services from its offices in Spain. La Sociedad no declara que los Servicios sean apropiados o estén disponibles en otras localizaciones. La información proporcionada a través de los Servicios no tiene como finalidad ser distribuida o utilizada por ninguna persona física o juridica en ninguna jurisdicción o país donde dicha distribución o uso pueda se contrario a la legislación de dicho territorio o requiera el registro de la Sociedad en dicho país o jurisdicción. En consecuencia, aquellos que decidan acceder a los Servicios desde otras jurisdicciones lo harán bajo su riesgo y responsablilidad, debiendo cumplir con la normativa local, en caso de que esta fuere aplicable.
 
-#### C. **Relationship with Third Parties**
+#### B. **Modificaciones sobre estos Términos** 
 
-This Agreement is between you and the Company. No user has any rights to force the Company to enforce any rights it may have against you or any other user.
+Icofunding podrá modificar estos terminos discrecionalmente y en cualquier momento, y dichas modificaciones serán efectivas desde el momento en que se publiquen en https://icofunding.com o en cualquier alojamiento que esté enlazado desde dicha web, donde fue publicada la anterior versión de los Términos o comunicando dichos cambios por escrito o por cualquier otro método de contacto. El uso de los Servicios por parte del Usuario con fecha posterior a la referida modificación constutirá el consentimiento sobre dichos cambios por parte del Usuario.
 
-#### D. **Prohibition of Assignment**
 
-You may not assign this Agreement without the Company’s prior written consent.
+#### C. Renuncia and Separabilidad
 
-#### E. **Jurisdiction and Govering Law**
+##### i. El incumplimiento por parte de la Sociedad a la hora de exigir o hacer cumplir estrictamente el cumplimiento de cualquier disposición de estos Términos o ejercer cualquier derecho bajo los mismos no se interpretará como una renuncia o renuncia al derecho de la Sociedad a continuar exigiendo el cumplimiento de estos Términos. En este sentido, la Sociedad puede optar por hacer cumplir algunas partes de este Acuerdo más estrictamente o interpretar ciertas disposiciones de forma estricta contra ciertos usuarios que contra los usuarios en general, y este tratamiento no será óbice para el incumplimiento todos estos Términos tal y como se estipulan. 
 
-The applicable legislation to this Agreement and any conflict related to this shall be ruled under Spanish legislation.
-Renouncing any other jurisdiction that could correspond to them, the parties submit to the courts of Madrid (Spain), to resolve any differences that may arise in the interpretation or implementation of this agreement.
+##### ii. El Usuario y la Sociedad aceptan que si cualquier parte de estos Términos son considerados ilegales o inaplicables, en todo o en parte, por cualquier jurisdicción compentente, dichas disposiciones serán ineficaces en cuanto a dicha determinación de invalidez o inaplicabilidad, sin afectar a la validez o ejecutabilidad de las mismas en cualquier otra jurisdicción y sin afectar a las restantes disposiciones de estos Términos, los cuales continuarán en plena vigencia y efecto.
 
-And in proof of their compliance, sign the present Agreement, the Spanish version being the only one valid and the English a non-binding translation, in duplicate and to a single effect, in the place and date above indicated.
+#### C. **Relaciones con terceras partess**
 
-The Services are operated and provided by Icofunding S.L., of Spanish nationality, with address to professional effects at c/ Cristobal Bordiú 13, Estreplanta B, 28003, Madrid (Spain), registered with Fiscal Identification Number (CiF) B-87890588.
+Estos Términos son aplicables a la relación entre el Usuario y la Sociedad. Ningún Usuario tendrá derecho a exigir a la compañía que ejerza cualesquiere derechos que pueda tener cualquier Usuario frente a terceras personas.
+
+#### D. **Prohibición de subrogación**
+
+Ningún Usuario podrá subrogarse o ser subrogado en los derechos y obligaciones contenidos en estos Términos sin previo consentimiento escrito por parte de Icofunding.
+
+#### E. **Jurisdicción y Legislación Aplicable**
+
+Las partes acuerdan someter el presente contrato y cualquier conflicto relacionado con el mismo a la legislación española.
+ 
+Con renuncia a cualquier otro fuero que pudiera corresponderles, las partes se someten a los Tribunales de Madrid, para resolver cualesquiera diferencias que pudieran surgir en la interpretación o ejecución del presente contrato.
+
+Y en prueba de su conformidad, firman el presente contrato, cuya única versión válida será la transcrita en castellano, siendo la versión inglesa una mera traducción sin efectos vinculantes, que se extiende por duplicado y a un solo efecto, en el lugar y fecha arriba indicados.
+
+Los Servicios son operados y prestados por Icofunding S.L., de nacionalidad española, con domicilio a efectos profesionales en la Calle Cristobal Bordiú 13, Entreplanta B, 28003, Madrid (España), constituída con el Número de Identificación Fiscal (CIF) B-87890588. Para cualquier contacto o comunicación relativa a estos Términos, escriba a info@icofunding.com. Todas las notificaciones relativas a estos Términos deberán llevarse a cabo por es rito. Las instrucciones comunicadas verbalmente habrán de ser confirmadas por escrito.
 For any contact or communication related to this Agreement, please write to info@icofunding.com. All notifications in connection with this agreement must take place in writing. Instruction verbally communicated shall be confirmed in writing.
 
-Last updated: Sept 28, 2017 · Icofunding and Coin Governance System are a trademarks of Icofunding S.L.
+Última modificación: 30 de Septiembre de 2017 · Icofunding y Coin Governance System son marcas propiedad de Icofunding S.L.
 
 #
