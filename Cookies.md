@@ -1,24 +1,24 @@
-# POLÍTICA DE COOKIES
+# COOKIES POLICY
 
-Antes de que empieces a navegar por la nos gustaría informarte de que utilizamos cookies con diferentes finalidades en la Web https://icofunding.com, de tal forma que puedas decidir si quieres que las mismas se instalen en tu equipo o no.
+Before you start browsing, we inform you that we use cookies with different purposes on the web https://icofunding.com, so that you can decide if you want them installed on your computer or not.
 
-En caso de continuar navegando en https://icofunding.com, ICOFUNDING S.L. (en adelante, ICOFUNDING) deducirá que aceptas la instalación de las cookies, otorgándonos el consentimiento para poder instalarlas en tu equipo.
+If you continue browsing at https://icofunding.com, ICOFUNDING S.L. (hereinafter, ICOFUNDING) will deduct that you accept the installation of the cookies, and that you give the consent to be able to install them on your computer.
 
-## QUÉ SON LAS COOKIES
+## WHAT ARE THE COOKIES?
 
-Las cookies son pequeños archivos de información que se envían y almacenan en el equipo desde el que se accede a la Web https://icofunding.com (PC u ordenador personal, teléfono móvil, tableta, televisión conectada, etc.) facilitando el uso de la misma, para ofrecer un mejor servicio.
+Cookies are small information files that are sent and stored on the computer from which you access to the web https://icofunding.com (PC or personal computer, mobile phone, tablet, connected TV, etc.) making it easier to use of the same, to offer a better service.
 
-La Web https://icofunding.com utiliza tanto cookies propias como de terceros que nos ayudan a mejorar la calidad, permitiéndonos comparar, recordar, controlar y entender como navegan nuestros usuarios a través de la Web, identificando qué es lo que encuentran útil y lo que no; y poder así, mejorar el proceso de navegación.
+The Web https://icofunding.com uses both own and third-party cookies that help us improve quality, allowing us to compare, remember, control and understand how our users navigate through the Web, identifying what they find useful and what not; and thus be able to improve the navigation process.
 
-Las cookies que utiliza la Web no dañan tu equipo, únicamente sirven para mejorar los servicios ofrecidos. Algunas son estrictamente necesarias para que la página funcione bien (técnicas y de personalización) y otras sirven para mejorar el rendimiento y experiencia como usuario (análisis, publicitarias y de publicidad comportamental).
+The cookies that use the Site do not damage your equipment, they only serve to improve the offered services. Some are strictly necessary for the page to work well (technical and personalization) and others serve to improve performance and user experience (analysis, advertising and behavioral advertising).
 
-La Web utiliza tanto cookies de sesión, temporales, como cookies permanentes. Las cookies de sesión almacenan datos mientras el usuario accede a la Web y caducan al cerrar el navegador; mientras que las cookies permanentes almacenan los datos en el terminal para que sean accedidos y utilizados en más de una sesión. Estas últimas suelen caducar cuando transcurre un periodo de tiempo que puede oscilar entre los dos meses y los dos años.
+The Web uses both session cookies, temporary cookies, and permanent cookies. Session cookies store data while the user accesses the Web and expires when the browser is closed; while the permanent cookies store the data in the terminal to be accessed and used in more than one session. These last ones usually expire when a period of time exists that can oscillate between the two months and the two years.
 
-## DESACTIVACIÓN DE COOKIES. 
+## COOKIES DEACTIVATION
 
-Tienes la opción de permitir, bloquear o eliminar las cookies instaladas en tu equipo mediante la configuración de las opciones del navegador instalado en su equipo. Al desactivar cookies, algunos de los servicios disponibles podrían dejar de estar operativos. La forma de deshabilitar las cookies es diferente para cada navegador, pero normalmente puede hacerse desde el menú Herramientas u Opciones.
+You have the option to allow, block or delete cookies installed on your computer by configuring the browser options installed on your computer. When you disable cookies, some of the available services may stop working. The way to disable cookies is different for each browser, but can usually be done from the Tools or Options menu.
 
-También puede consultarse el menú de Ayuda del navegador dónde puedes encontrar instrucciones. El usuario podrá -en cualquier momento- elegir qué cookies quiere que funcionen en este sitio Web mediante la configuración del navegador; por ejemplo:
+You can also consult the Help menu of the browser where you can find instructions. The user may - at any time - choose which cookies he wants to work on this website through the browser configuration; for example:
 
 * Microsoft Internet Explorer
 * Mozilla Firefox
@@ -26,81 +26,80 @@ También puede consultarse el menú de Ayuda del navegador dónde puedes encontr
 * Safari
 * Opera
 
-## TIPOS DE COOKIES
+## TYPES OF COOKIES
 
-Según la finalidad para la que se traten los datos obtenidos a través de las cookies, la Web puede utilizar:
+Depending on the purpose for which the data obtained through cookies are processed, the Web may use:
 
-* **Cookies técnicas**: son aquéllas que permiten al usuario la navegación a través de una página web, plataforma o aplicación, y la utilización de las diferentes opciones o servicios que en ella existan como, por ejemplo, controlar el tráfico y la comunicación de datos, identificar la sesión y acceder a partes de acceso restringido.
+* **Technical cookies**: are those that allow the user to navigate through a web page, platform or application, and the use of different options or services that exist in it, such as traffic control and communicate data, identify the session and access restricted access parts.
 
-* **Cookies de personalización**: son aquéllas que permiten al usuario acceder al servicio con algunas características de carácter general predefinidas en función de una serie de criterios en el terminal del usuario como por ejemplo serian el idioma, el tipo de navegador
+* **Personalization cookies**: are those that allow the user to access the service with some general characteristics predefined according to a series of criteria in the user's terminal such as the language, the type of browser.
 
-* **Cookies de análisis**: son aquéllas que permiten el seguimiento y análisis del comportamiento de los usuarios de los sitios Web a los que están vinculadas. La información recogida mediante este tipo de cookies se utiliza en la medición de la actividad de los sitios Web, aplicación o plataforma y para la elaboración de perfiles de navegación de los usuarios.
+* **Analysis cookies**: are those that allow the monitoring and analysis of the behavior of users of the websites to which they are linked. The information collected through this type of cookies is used in the measurement of the activity of the websites, application or platform and for the elaboration of user navigation profiles.
 
-* **Cookies publicitarias**: son aquéllas que permiten la gestión, de la forma más eficaz posible, de los espacios publicitarios.
+* **Advertising Cookies**: are those that allow the management, in the most effective way possible, of advertising spaces.
 
-* **Cookies de publicidad comportamental**: estas cookies almacenan información del comportamiento de los usuarios obtenida a través de la observación continuada de sus hábitos de navegación, lo que permite desarrollar un perfil específico para mostrar publicidad en función del mismo.
+* **Behavioral Advertising Cookies**: These cookies store information on the behavior of users obtained through the continuous observation of their browsing habits, which allows the development of a specific profile to show advertising based on it.
 
-* **Cookies de redes sociales externas**: que se utilizan para que los visitantes puedan interactuar con el contenido de diferentes plataformas sociales (facebook, youtube, twitter, linkedIn, etc..) y que se generen únicamente para los usuarios de dichas redes sociales. Las condiciones de utilización de estas cookies y la información recopilada se regula por la política de privacidad de la plataforma social correspondiente.
+* **External Social Networking Cookies**: used to allow visitors to interact with content from different social platforms (facebook, youtube, twitter, linkedIn, etc.) and are generated only for users of said social networks. The conditions of use of these cookies and the information collected is regulated by the privacy policy of the corresponding social platform.
 
-Actualmente en la WEB se utilizan los siguientes tipos de cookies:
+Currently the WEB uses the following types of cookies:
 
-### COOKIES PROPIAS
+### OWN COOKIES
 
-#### Cookies técnicas
+#### Technical Cookies
 
-Gestionan la correcta navegación a través de la Web y sus contenidos, permitiendo identificar las sesiones de usuario y proteger su uso.
-
-*Opt-out*: N/A
-
-#### Cookies de Personalización
-
-Permiten mejorar la experiencia del usuario almacenando variables personalizadas como el idioma o las preferencias en la navegación.
+They manage the correct navigation through the Web and its contents, allowing to identify user sessions and to protect their use.
 
 *Opt-out*: N/A
 
-### COOKIES DE TERCEROS
+#### Customization Cookies
 
-#### Cookies de Análisis
+They improve the user experience by storing custom variables such as language or navigation preferences.
 
-*Google Analytics*: la Web utiliza Google Analytics, un servicio analítico de Web prestado por Google, Inc., una compañía de Delaware cuya oficina principal está en 1600 Amphitheatre Parkway, Mountain View (California), CA 94043, Estados Unidos ("Google"). La información que genera la cookie acerca de su uso de la Web (incluyendo su dirección IP) será directamente transmitida y archivada por Google en los servidores de Estados Unidos. Google usará esta información por cuenta de EMPRESA con el propósito de seguir la pista de su uso de la Web, recopilando informes de actividad y prestando otros servicios relacionados con la actividad y el uso de Internet. Google no asociará su dirección IP con ningún otro dato del que disponga Google.
+*Opt-out*: N/A
+
+### THIRD PARTY COOKIES
+
+#### Analysis Cookies 
+
+*Google Analytics*: The Web uses Google Analytics, a web analytics service provided by Google, Inc., a Delaware company whose head office is at 1600 Amphitheater Parkway, Mountain View (California), CA 94043, United States ("Google "). The information generated by the cookie about your use of the Web (including your IP address) will be directly transmitted and stored by Google on servers in the United States. Google will use this information on behalf of EMPRESA in order to keep track of its use of the Web, compiling activity reports and providing other services related to Internet activity and use. Google will not associate your IP address with any other data available to Google.
 
 *Opt-out*: https://tools.google.com/dlpage/gaoptout
 
-#### Cookies de redes sociales externas
+#### External Social Network Cookies
 
 **Youtube**
 
-You Tube proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra web. La información enviada fuera de la UE a You Tube es utilizada por You Tube conforme sus políticas de privacidad.
+You Tube provides buttons and other features so you can share links to our website. Information sent outside the EU to You Tube is used by You Tube in accordance with its privacy policies.
 
 *Opt-out*: http://www.google.com/intl/es/policies/technologies/types/
 
 **Google Plus**
 
-Google Plus proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra Web. La información enviada fuera de la UE a Google Plus es utilizada por Google Plus conforme sus políticas de privacidad.
-
+Google Plus provides buttons and other features so you can share links to our website. Information sent outside the EU to Google Plus is used by Google Plus in accordance with its privacy policies.
 *Opt-out*: http://www.google.com/intl/es/policies/technologies/types/
 
 **Facebook**
 
-Facebook proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra Web en tu perfil. La información enviada fuera de la UE a Facebook,relativa a las páginas que has visitado o sobre las cosas que te interesan, es utilizada por Facebook conforme sus políticas de privacidad.
+Facebook provides buttons and other features so you can share links to our website on your profile. Information sent outside the EU to Facebook, concerning the pages you have visited or about the things that interest you, is used by Facebook according to its privacy policies.
 
 *Opt-out*: https://www.facebook.com/help/cookies/
 
 **Twitter**
 
-Twitter proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra Web. La información enviada fuera de la UE a Twitter es utilizada por Twitter conforme a sus políticas de privacidad.
+Twitter provides buttons and other features so you can share links to our website. The information sent outside the EU to Twitter is used by Twitter according to its privacy policies.
 
 *Opt-out*: https://twitter.com/privacy?lang=es
 
 **LinkedIn**
 
-LinkedIn proporciona botones y otras funcionalidades para que puedas compartir enlaces a nuestra Web en tu perfil. La información enviada fuera de la UE a LinkedIn, relativa a las páginas que has visitado o sobre las cosas que te interesan es utilizada conforme a sus políticas de privacidad.
+LinkedIn provides buttons and other features so you can share links to our Web in your profile. Information sent outside the EU to LinkedIn, regarding the pages you have visited or about the things that interest you is used according to your privacy policies.
 
 *Opt-out*:https://www.linkedin.com/legal/cookie-policy?trk=hb_ft_cookie
 
-Los sistemas de opt-out específicos indicados en la tabla anterior respecto de la cookie de que se trate (estos sistemas pueden conllevar que se instale en su equipo una cookie de rechazo; para que funcione su elección de desactivación); u otras herramientas de terceros, disponibles on line, que permiten a los usuarios detectar las cookies en cada sitio Web que visita y gestionar su desactivación.
+The specific opt-out systems indicated in the table above regarding the cookie in question (these systems can cause a rejection cookie to be installed on your computer for your opt-out choice to work); or other third-party tools, available online, that allow users to detect cookies on each Web site they visit and manage their deactivation.
 
-ICOFUNDING no se hace responsable del contenido y veracidad de las políticas de privacidad de los terceros incluidas en esta política de cookies.
+ICOFUNDING is not responsible for the content and veracity of the privacy policies of the third parties included in this cookie policy.
 
-Cualquier duda o cuestión que tenga sobre esta política de cookies, puede contactar con ICOFUNDING en info@icofunding.com
+If you have any questions or concerns about this cookie policy, you may contact ICOFUNDING at info@icofunding.com
 
