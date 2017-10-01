@@ -6,7 +6,7 @@ In this repository you can find the following legal documnentation:
 * Cookies (EN).md
 * FAQ (EN).md
 * FAQ (ESP).md
-* Privacy Policy (ESP)
-* Privacy Policy (EN)
-* Terms and Conditions (ESP)
-* Terms and Conditions (EN)
+* Privacy Policy (ESP).md
+* Privacy Policy (EN).md
+* Terms and Conditions (ESP).md
+* Terms and Conditions (EN).md
