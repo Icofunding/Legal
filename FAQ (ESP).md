@@ -44,20 +44,20 @@ Los pagos en criptodivisas (Ether) son enviados desde su wallet de Ethereum a la
 
 ## ICO Launchers
 
-1. **How I launch a Token Sale at Icofunding?**
+1. **¿Cómo puedo lanzar una ICO en Icofunding?**
 
-To apply to list your token in Icofunding, please go to go to [*] or reach us at support@icofunding.com
+Para solicitar la inclusión de su ICO en Icofunding, vaya a https://app.icofunding.com/accounts o contáctenos en support@icofunding.com
 
-2. **Where can I find out more information about how to launch my Token Sale?**
+2. **¿Dónde puedo encontrar más información sobre cómo lanzar una ICO?**
 
-Please sign up in our platform or subscribe to our mailing list to receive information about how to launch your Token Sale.
+Por favor regístrese en nuestra plataforma o suscríbase a nuestra lista de correo para recibir información sobre cómo iniciar su ICO.
 
-## Payments
+## Pagos
 
-1. **How long does it takes for payments to arrive?**
+1. **¿Cuánto tiempo tardan en llegar los pagos?**
 
-Transfer time depends on the functioning of the Ethereum network. En Ether transaction usually takes no more than one hour to be confirmed.
+El tiempo de transferencia depende del funcionamiento de la red Ethereum. En general, la transacción no suele tardar más de una hora en confirmarse.
 
-2. **Did my payment arrive yet?**
+2. **¿Cómo saber si mi pago fue recibido?**
 
-You can see all pending and completed transaction on etherscan.io by introducing your transaction ID.
+Puede ver las transacciones pendientes y completadas en etherscan.io introduciendo su ID de transacción.
