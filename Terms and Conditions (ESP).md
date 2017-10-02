@@ -306,7 +306,7 @@ Copyright © 2017 Icofunding S.L. Todos los derechos reservados.
 
 ### 10. <a name="privacy-policy">**Política de Privacidad**</a>
 
-Nuestra [PPolítica de Privacidad](https://github.com/Icofunding/Legal/blob/master/Privacidad.md) muestra como recogemos información sobre Personas Físicas y Jurídicas a través de la Plataforma o la Web.
+Nuestra [PPolítica de Privacidad](https://github.com/Icofunding/Legal/edit/master/Privacy%20Policy.md) muestra como recogemos información sobre Personas Físicas y Jurídicas a través de la Plataforma o la Web.
 
 Icofunding puede modificar o actualizar su Política de Privacidad en cualquier momento y el Usuario debe revisar estos Términos y la citada Política de Privacidad periódicamente. El uso continuado del Servicio después de darse cualquier cambio en los Términos o en la Política de privacidad implica la aceptación por parte del Usuario de los mismos. Si el usuario no está de acuerdo con estos Términos o con la Política de Privacidad deberá de utilizar o acceder a los Servicios.
 
