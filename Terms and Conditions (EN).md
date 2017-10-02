@@ -297,7 +297,7 @@ Copyright © 2017 Icofunding S.L. All rights reserved.
 
 ### 10. <a name="privacy-policy">**Privacy Policy**</a>
 
-Please review our [Privacy Policy](https://github.com/Icofunding/Legal/blob/master/Privacidad.md) to understand how we collect information about companies and individuals through our Platform and Site.
+Please review our [Privacy Policy](https://github.com/Icofunding/Legal/blob/master/Privacy%20Policy%20(EN).md) to understand how we collect information about companies and individuals through our Platform and Site.
 
 Icofunding can modify or update the Privacy Policy from time to time and you should review this page and the Privacy Policy link periodically. Your continued use of the Service after any such change constitutes your acceptance of the new Terms of Use and Privacy Policy. If you do not agree to any of these terms or any future Terms and Conditions or Privacy Policy terms, do not use or access (or continue to access) the Service.
 
