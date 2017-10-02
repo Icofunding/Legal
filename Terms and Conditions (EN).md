@@ -18,11 +18,11 @@
 
 ### 1. <a name="introduction">**Introduction**</a>
 
-**Icofunding** is a Platform designed to help startups create and manage their own Token Sale or Initial Coin Offering (ICO). Icofunding also provides Services to the Token Buyers whereby controls are set to monitor ICOs in accordance with the Initial established goals.
+**Icofunding** is a Platform designed to help startups create and manage their own Token Sales or Initial Coin Offering (ICO). Icofunding also provides Services to the Token Buyers whereby controls are set to monitor ICOs in accordance with the Initial established goals.
 
 Users of this Platform are able to create an account in order to launch their own **Token Sale** as **ICO Launcher**, or to purchase Token issued through a Token Sale, as **Token Buyers**. 
 
-By using Icofunding, as ICO Launcher or Token Buyer, including by simply navigating through the website, you agree that you and any person you allow to access to the Platform through your account, will abide by this Terms and Conditions (the “Agreement”), which is set forth in its entirety below. 
+By using Icofunding, as ICO Launcher or Token Buyer, including by simply navigating through the website, you agree that you and any person you allow to access the Platform through your account, will abide by this Terms and Conditions (the “Agreement”), which is set forth in its entirety below. 
 
 This Agreement is between **you** and **Icofunding S.L.** (hereinafter, **we**, **Icofunding**, the **Platform** or the **Company**). This Agreement sets the conditions of your access to the Platform and use the Services and websites offered by the Company (the “Services”). Your access to and use of the Services are subject to your acceptance of and compliance with this Agreement. For more information, see Section Functioning of the Services.
 
@@ -30,7 +30,7 @@ Specific or technical terms used herein are defined in Section Definitions of th
 
 This Agreement sets forth terms on which ICO Launchers interact with Token buyers through the Platform.
 
-**ICO LAUNCHERS**: If you are an ICO Launcher, you could upload information about your project, such as your business plan, Token features, roadmap, team info, among others to our Platform https://icofunding.com - The “Site".
+**ICO LAUNCHERS**:: If you are an ICO Launcher, you could upload information about your project, such as your business plan, Token features, roadmap, team info, among others to our Platform https://icofunding.com - The “Site".
 
 **TOKEN BUYERS**: Token Buyers must understand the risk of buying Tokens of early stage companies, including the possibility of loss and long period illiquidity. As Token buyer, you may participate in one of the Token Sales or Initial Coin Offerings through the Platform.
 
@@ -38,9 +38,9 @@ This Agreement sets forth terms on which ICO Launchers interact with Token buyer
 
 ### 2. <a name="definitions">**Definitions**</a>
 
-#### A. “Blockchain” means a distributed ledger, made of chains of data blocks designed to avoid the possibility of modification. Once a data item has been time-stamped by a participant that is trustworthy it is itself connected to a previous block.  For this reason, it is specially suitable to store data organized in time eliminating the possibility of modification or revision. There are several aspects involved in the process: 
+#### A. “Blockchain” means a distributed ledger, made of chains of data blocks designed to avoid the possibility of modification. Once a data item has been time-stamped by a participant that is trustworthy it is itself connected to a previous block. For this reason, it is especially suitable to store data organized in time eliminating the possibility of modification or revision. There are several aspects involved in the process:
 
-•	Data storage: It is achieved through the replication of the blockchain. 
+•	Data storage: It is achieved through the replication of the blockchain.
 
 •	Data transmission: It is achieved through peer-to-peer.
 
@@ -127,11 +127,11 @@ contract ERC20 {
 
 This means you are making the following statements
 
-##### i. Requirements to use the Platform and Icofunding's services:
+##### i. Requirements to use the Platform and Icofunding's Services:
 
 ###### a. That you are on legal age in your country.
 
-###### b. That you have the right, capacity and are enabled to enter into this Agreement on your own behalf on any entity for whom you are acting and to comply with any and all terms and conditions stated herein, and that if any aspect of your participation in Icofunding violates any law to which you are subject, you will cease using the Platform and it Services and close your account;
+###### b. That you have the right, capacity and are enabled to enter into this Agreement, on your own behalf or any entity for whom you are acting and to comply with any and all terms and conditions stated herein, and that if any aspect of your participation in Icofunding violates any law to which you are subject to, you will cease using the Platform and it Services and close your account;
 
 ###### c. That you shall not use a fake name or email address owned or controlled by another person trying to impersonate that person or any other reason; or that you shall not use a User ID name subject to any rights of a person other than yourself without authorisation.
 
@@ -141,9 +141,9 @@ This means you are making the following statements
 
 ###### a. That you will only provide us with Content and Information that you have right to provide and allow us to display the referred content and information.
 
-###### b. You own and/or control all rights in and to the Content and Information, and the right to grant all of the rights and licenses in these Terms and Conditions, and if you are the holder of such rights, the holder of such tights has completely and effectively waived all such rights and irrevocably granted you the right to grant the licenses stated above without the need for payment to you or any other person or entity;
+###### b. You own and/or control all rights in and to the Content and Information, and the right to grant all of the rights and licenses in these Terms and Conditions, and if you are not the holder of such rights, the holder of such rights has completely and effectively waived all such rights and irrevocably granted you the right to grant the licenses stated above without the need for payment to you or any other person or entity;
 
-###### c. That you have rights to all copyrights, trademarks, trade secrets, IP or other material provided by you for display by us.
+###### c. That you have rights to all copyrights, trademarks, trade secrets, IP or other material provided by you for display in the Platform.
 
 ###### d. That you understand that your Content and Information may be republished and if you do not have the right to submit Content and Information for such use, it may subject you to liability. Icofunding will not be responsible or liable for any use of your Content and Information by Icofunding according to this Agreement; 
 
@@ -153,11 +153,11 @@ This means you are making the following statements
 
 ##### iii. Requirements related to Token Purchases
 
-###### a. You will only buy Tokens in Token Sales showed through the Platform after carefully reviewing the Terms of the Token Sale, organizational documents as well as any information provided through the Site and that you have reviewed and understand the risks found here;
+###### a. You will only buy Tokens in Token Sales showed through the Platform after carefully reviewing the Terms of the Token Sale, organizational documents as well as any information provided through the Site after you have reviewed and understand the risks found there;
 
-###### b. You will use your own judgement before making any decision to buy tokens involving what is you a material amount of money;
+###### b. You will use your own judgement before making any decision to buy Tokens involving what is a material amount of money;
 
-###### c. That you will be responsible for complying with applicable law regarding any Token Purchase or Token Sale, including without limitation the determination of wether any Token Purchase complies with the terms of local law, whether the law of any country with jurisdiction over you or any Token Buyer.
+###### c. That you will be responsible for complying with applicable law regarding any Token Purchase or Token Sale, including without limitation the determination of whether any Token Purchase complies with the terms of local law, whether the law of any country with jurisdiction over you or any Token Buyer.
 
 ###### d. To get professional advice to protect your interests (such as tax, accounting, legal or financial).
 
@@ -167,19 +167,19 @@ This means you are making the following statements
 
 ###### b. Expect Icofunding to evaluate, confirm or stand behind any user's assertion or recommend any Token Sale;
 
-###### c. Treat any Content, email or other information you receive by accesing to the Platform as a recommendation by Icofunding, an affiliate of Icofunding or any employee, partner, director, representative or or other agent of the foregoing (each a "Company Person") on which you should rely.
+###### c. Treat any Content, email or other information you receive by accessing the Platform as a recommendation by Icofunding, an affiliate of Icofunding or any employee, partner, director, representative or other agent of the foregoing (each a "Company Person") on which you should rely.
 
 ###### d. Use any Content or Information acquired from Company Persons, Token Buyers or ICO Launchers, or otherwise through your use of the Services, for commercial activity outside of the Services, without prior written approval from Icofunding;
 
 ###### e. Claim any right to access, view or alter any source code or object code of Icofunding;
 
-###### f. Expect Icofunding to market services that might cause Icofunding to have to register as a broker dealer/agent or investment adviser with any Public Authority in any jurisdiction or to be treated as an underwritter; or
+###### f. Expect Icofunding to market services that might cause Icofunding to have to register as a broker dealer/agent or investment adviser with any Public Authority in any jurisdiction or to be treated as an underwriter; or
 
 ###### g. To market competing services to people identified through Icofunding.
 
 #### B. **Indemnify Icofunding and Related Parties**.
 
-You agree to indemnify Icofunding and any Company Person harmless from any claim, demand, expenses, costs or fees made by a third party due to or arising out of your access to or use of the Services or the violation of this Agreement or any applicable law by you or any third party using your account.
+You agree to indemnify Icofunding and keep any Company Person harmless from any claim, demand, expenses, costs or fees made by a third party due to or arising from your access to or use of the Services or the violation of this Agreement or any applicable law by you or any third party using your account.
 
 #### C. **Confidentiality**. 
 
@@ -187,7 +187,7 @@ You agree not to redistribute any information you acquire through the Services a
 
 #### D. **Other Obligations**
 
-##### i. To allow Icofunding uploaded to Icofunding.a limited, non-revocable license to publish all Content and Information.
+##### i. To grant Icofunding a limited, non-revocable license to publish all Content and Information.
 
 ##### ii. To acknowledge that Icofunding or any other party are not obligated to pay you any compensation with respect to your activities on Icofunding.
 
@@ -197,7 +197,7 @@ We may make available one or more APIs for interacting with the Services. Your u
 
 ### 4. <a name="dispute-with-others">**Dispute with Others**</a>
 
-Icofunding has the right to manage disputes betwieen you and other users, with no obligation with that regard.
+Icofunding has the right to manage disputes between you and other users in the context of your use of the Services, with no obligation on that regard.
 
 ### 5. <a name="company-rights">**Company Rights**</a>
 
@@ -211,13 +211,13 @@ Icofunding has the right to discontinue the Services or to change the Services i
 
 #### iii. **Right to End User Access**
 
-Icofunding has the right to end your access to the Services without notice and.
+Icofunding has the right to end your access to the Services without notice.
 
 We may delete your account for any reason, and if we delete your account you will lose all access to any information, connections or other features that may have been associated with your account.
 
 #### iv. **Right to refuse or Cancel Registration**
 
-Icofunding has te right to deny registration or cancel an user account for any reason. Icofunding also has the right at all times to remove or refuse to dustrubut content on the Services and to terminate users and reclaim user names.
+Icofunding has the right to deny registration or cancel an user account for any reason. Icofunding also has the right at all times to remove or refuse to distribute content on the Services and to terminate users and reclaim user names.
 
 Icofunding also has the right to access, read, preserve, and disclose any information if it is necessary to
 
@@ -243,7 +243,7 @@ We are not obligated to practice due diligence on ICO Launchers, Token Buyers or
 
 #### B. **Verifying Accredited Investors**
 
-As Icofunding IS NOT AN INVESTMENT PLATFORM, we are not responsible for verifying that any Token Buyer is accredited, is a Qualifyed purchaser or authorized or appropiate to participate in an ICO or Token Sale, or for determining whether any use of Icofunding constitutes a general solicitation of securities under the securities laws of any jurisdiction.
+As Icofunding IS NOT AN INVESTMENT PLATFORM, we are not responsible for verifying that any Token Buyer is accredited, is a Qualifyed purchaser or authorized or appropriate to participate in an ICO or Token Sale, or for determining whether any use of Icofunding constitutes a general solicitation of securities under the securities laws of any jurisdiction.
 
 #### C. **Confidentiality** 
 
@@ -251,21 +251,21 @@ We are not obligated to maintain the confidentiality of any Content of informati
 
 #### D. **Verify Advertisement Accuracy**
 
-The Services may contain or deliver advertising and sponsorships.a.	Advertisers and sponsors are responsible for ensuring that material submitted for inclusion is accurate and complies with applicable laws. We are not responsible for the illegality or any error, inaccuracy or problem in an advertiser’s or sponsor’s Content.
+The Services may contain or deliver advertising and sponsorships.	Advertisers and sponsors are responsible for ensuring that material submitted for inclusion is accurate and complies with applicable laws. We are not responsible for the illegality or any error, inaccuracy or problem in an advertiser’s or sponsor’s Content.
 
 ### 7. <a name="disclamers-limitations-waivers-of-liability">**Disclamers; Limitations; Waivers of Liability**</a>
 
-#### A. The company is not responsible for any technical malfunction or other problems of any telephone network or service, computer systems, servers or providers, computer or mobile phone equipment, software, failure of email or media players on account of technical problems or traffic congestion on the internet or at any website or combination thereof, including injury or damage to your or to any other person’s computer, mobile phone or other hardware or software, related to or resulting from using or downloading materials in connection with the web and/or in connection with the services, including any mobile software. Under no circumstances will the company be responsible for any loss or damage, including any loss or damage to any content or personal injury or death, resulting from anyone’s use of the services, any content or third party applications, software or content posted on or through the services or transmitted to users or any interactions between users of the services, whether online or offline.
+#### A. The Company is not responsible for any technical malfunction or other problems of any telephone network or Service, computer systems, servers or providers, computer or mobile phone equipment, software, failure of email or media players on account of technical problems or traffic congestion on the Internet or at any website or combination thereof, including injury or damage to your or to any other person’s computer, mobile phone or other hardware or software, related to or resulting from using or downloading materials in connection with the web and/or in connection with the Services, including any mobile software. Under no circumstances will the Company be responsible for any loss or damage, including any loss or damage to any content or personal injury or death, resulting from anyone’s use of the Services, any content or third party applications, software or content posted on or through the Services or transmitted to users or any interactions between users of the Services, whether online or offline.
 
 #### B.	Icofunding is not liable for any temporary or permanent anomaly or malfunction of the Ethereum blockchain network or any software used to interact with the referred network. In this sense, Icofunding will not be liable for potential “hacks” or thefts that could take place, either in the network or from the virtual wallets of the users, or from the hosts of said virtual wallets.
 
 #### C.	As Icofunding shall not at no time have direct or indirect control of the funds received by any ICO Launcher from any sale of Tokens, Icofunding will not be responsible in any way for the tax and anti-money laundering compliance obligations derived from said funds.
 
-#### D.	ICO Launchers will in any case be responsible for the tax compliance, anti-money laundering compliance and any other regulation that may be applicable.
+#### D.	ICO Launchers will not in any case be responsible for the tax compliance, anti-money laundering compliance or any other regulation that may be applicable to the users of the Services.
 
 ### 8. <a name="term-and-termination-of-the-agreement">**Term and Termination of the Agreement**</a>
 
-#### A. Unless terminated by Icofunding, this Agreement will remain in full force and effect whule you use the Services.
+#### A. Unless terminated by Icofunding, this Agreement will remain in full force and effect while you use the Services.
 
 #### B. Subject to the last sentence of this Section, you may terminate this Agreement at any time by deleting all Content you have provided to Icofunding and ceasing to use the Services.
 
@@ -281,7 +281,7 @@ Please write to support@icofunding.com to submit a notice of alleged copyright i
 
 Icofunding SL.
 Calle Cristobal Bordiú 13, Entreplanta B
-MAdrid, 28003, Spain
+Madrid, 28003, Spain
 
 A notification of alleged copyright infringement must be addressed to Icofunding as listed above. Please include as much detail as possible to allow us to identify the facts or circumstances, including, where possible:
 
