@@ -19,7 +19,7 @@ FLIXXO LIMITED is a company incorporated and registered in Gibraltar with regist
 References in these T&Cs to “**Contributor**”, “**your**” or “**you**” are to the person/entity who accepts these T&Cs and agrees to make a contribution to Flixxo as set out in and on the terms of these T&Cs. You and Flixxo shall together be referred to as the “**Parties**” and references to a “**Party**” shall be to the relevant one of them as the context requires.
 If you have any questions relating to these T&Cs, please contact us at presale@flixxo.com
 
-**YOU AND FLIXXO HEREBY AGREE AS FOLLOWS:
+**YOU AND FLIXXO HEREBY AGREE AS FOLLOWS:**
 
 1.	**Flixxo Platform**
 
@@ -176,11 +176,11 @@ You acknowledge and agree that sending a contribution to Flixxo, the creation an
 
 You are responsible for implementing all reasonable and appropriate measures for securing the wallet, vault or other storage mechanism you use to send a contribution to Flixxo and to receive and store Flixx that are issued to you by the Smart Contract System, including any requisite private key(s) or other credentials necessary to access such storage mechanism(s). If your private key(s) or other access credentials are lost, you may lose access to your Flixx.  Flixxo shall not be responsible for any security measures relating to your receipt, possession, storage, transfer or potential future use of Flixx nor shall we be under any obligation to recover or return any Flixx and we hereby exclude (to the fullest extent permitted under applicable law) any and all liability for any security breaches or other acts or omissions which result in your loss of (including your loss of access to) Flixx issued to you during the Token Sale.
 
-13.	**Right to Request Information
+13.	**Right to Request Information**
 
 We may determine, in our sole and absolute discretion, that it is necessary to obtain certain information about you in order to comply with applicable law in connection with the creation and issue of Flixx to you. You agree to provide us such information promptly upon request, and you acknowledge and accept that we may refuse or reject any contributions for the purchase of Flixx until you provide such requested information and we have determined that it is permissible to create and issue Flixx to you under applicable law.
  
-14.	**Indemnity
+14.	**Indemnity**
 
 14.1.	To the fullest extent permitted by applicable law, you will indemnify, defend and hold harmless Flixxo and our respective past, present and future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns (the “Flixxo Parties”) from and against any and all claims, demands, actions, damages, losses, costs and expenses (including reasonable professional and legal fees) that arise from or relate to:
 
