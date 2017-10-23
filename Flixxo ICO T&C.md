@@ -1,41 +1,35 @@
-TERMS AND CONDITIONS RELATING TO TOKEN SALE
+# TERMS AND CONDITIONS RELATING TO TOKEN SALE
 
-Last updated: 23 October 2017
+**Last updated: 23 October 2017**
 
 PLEASE READ THESE TERMS AND CONDITIONS (“T&Cs”) CAREFULLY. BY MAKING A CONTRIBUTION TO FLIXXO LIMITED FOR THE PURCHASE OF FLIXXO TOKENS (“FLIXX”) DURING THE TOKEN SALE, YOU WILL BE BOUND BY THESE T&Cs AND ALL TERMS INCORPORATED HEREIN BY REFERENCE.
+
 BY ACCEPTING THESE T&CS, YOU WILL BE ENTERING INTO A BINDING AGREEMENT WITH FLIXXO LIMITED. IN EXCHANGE FOR THE PAYMENT BY THE CONTRIBUTOR OF A CONTRIBUTION MADE DURING THE CONTRIBUTION PERIOD FLIXXO AGREES TO ISSUE TO CONTRIBUTOR CERTAIN UNITS OF FLIXX SUBJECT TO THE TERMS SET FORTH IN THESE T&Cs.
 
 THESE T&Cs CONTAIN PROVISIONS WHICH AFFECT YOUR LEGAL RIGHTS. NOTE THAT THESE T&Cs CONTAIN A BINDING ARBITRATION CLAUSE. IF YOU DO NOT AGREE TO THESE T&Cs, DO NOT MAKE A CONTRIBUTION FOR THE PURCHASE OF FLIXX AND NAVIGATE AWAY FROM THE FLIXXO WEBSITE.
 
-PROHIBITION ON U.S CONTRIBUTORS
+**PROHIBITION ON U.S CONTRIBUTORS
+
 Due to legal and regulatory uncertainty in the United States of America, citizens and green card holders of and persons residing in the United States of America are prohibited from making contributions to Flixxo and participating in the Token Sale. Persons from the United States of America that participate in the Token Sale by providing false information about their citizenship, residency and/or nationality shall be in breach of these T&Cs and shall be required to indemnify Flixxo in respect of any damages and/or losses suffered due to this breach in accordance with the indemnification provisions set out in these T&Cs.
 
-PARTIES TO THESE T&Cs
+**PARTIES TO THESE T&Cs
 
 FLIXXO LIMITED is a company incorporated and registered in Gibraltar with registration number 116199 and shall be the creator of Flixx under these T&Cs. There may be other entities within the Flixxo group of companies from time to time (“Flixxo Companies”) that will develop, manage and/or operate the Flixxo Platform (as defined in clause 1 below) (or parts thereof) and references in these T&Cs to “Flixxo”, “Company”, “we”, “our” or “us” shall be to FLIXXO LIMITED, the Flixxo Companies and their respective successors and assigns.  
 
 References in these T&Cs to “Contributor”, “your” or “you” are to the person/entity who accepts these T&Cs and agrees to make a contribution to Flixxo as set out in and on the terms of these T&Cs. You and Flixxo shall together be referred to as the “Parties” and references to a “Party” shall be to the relevant one of them as the context requires.
 If you have any questions relating to these T&Cs, please contact us at presale@flixxo.com
 
-YOU AND FLIXXO HEREBY AGREE AS FOLLOWS:
+**YOU AND FLIXXO HEREBY AGREE AS FOLLOWS:
 
 1.	Flixxo Platform
+
 1.1.	Flixxo is a decentralized platform (the “Flixxo Platform”) aimed at developing an economy on top of a distributed video distribution network that leverages the Ethereum blockchain to provide a decentralized payment and incentive framework. The Platform will handle a video distribution ecosystem based on rules that have been determined by both (i) the Platform’s general infrastructure and (ii) the specific requirements of the relevant user.
-
-
-
 
 1.2.	For a more detailed description of the proposed Flixxo Platform, please refer to
 
 1.2.1.a)	the Flixxo website at https://www.flixxo.com/;
 
-1.2.1.b)	the Flixxo Whitepaper (a copy of which can be found at 				https://www.flixxo.com/assets/docs/flixxo-white-paper_v0.5.pdf);
-
-
-
-
-
-(collectively referred to as the “Project Documentation”)
+1.2.1.b)	the Flixxo Whitepaper (a copy of which can be found at 				https://www.flixxo.com/assets/docs/flixxo-white-paper_v0.5.pdf);(collectively referred to as the “Project Documentation”)
 
 1.3.	The information contained in the Project Documentation is of descriptive nature only, is not binding and does not form part of these T&Cs.
 
@@ -93,8 +87,6 @@ The price per Flixx will be denominated in Ether and base price of Flixx shall b
 
 6.1.1.e)	Tier 5 contributors who participate in the final 9 days (day 22 to 30 of ICO, “Tier 5 Bonus Period”), will receive a 10% bonus in the number of Flixx (e.g. suppose 1 ETH= 4000 Flixx. During the Tier 5 Bonus Period, 1 ETH = 4400 Flixx)]
 
-
-
 7.	Refunds, Refusals, Suspension and Termination of Contributions
 
 7.1.	Flixxo has imposed a minimum aggregate contribution target equivalent to 5,000 ETH (“Minimum Target”). If on conclusion of the Contribution Period, the aggregate sum of all contributions received by Flixxo is less than the Minimum Target, Flixxo shall, within a reasonable period of time, exercise reasonable endeavours to procure that contributions are returned to the Contributor.
@@ -106,7 +98,6 @@ The price per Flixx will be denominated in Ether and base price of Flixx shall b
 7.4.	At any time prior to satisfaction of the Completion Conditions, Flixxo may either temporarily suspend or permanently abort the Token Sale for security reasons. Any suspension or abort of the Token Sale shall be deemed to commence from the moment that Flixxo publishes a notice to that effect on its website.
 
 7.5.	During any period of suspension or in the event that the Contribution Period is aborted, the Smart Contract System will no longer be able to receive and accept contributions, create Flixx and/or issue Flixx to Contributors. Contributors who send us contributions (after we publish a notice that the Token Sale has been suspended or aborted in accordance with clause 1.A.7.4) risk losing their entire contribution and we shall not be responsible or liable for recovering or returning any such contributions to the Contributor nor shall we be responsible or liable for any losses incurred by the Contributor in this respect. Contributors are therefore strongly advised to check our website before sending a contribution to the Smart Contract System.
-
 
 8.	Token Functionality
 
@@ -234,7 +225,9 @@ We may determine, in our sole and absolute discretion, that it is necessary to o
 17.3.	You agree not to hold Flixxo or any of the Flixxo Parties liable for any tax liability associated with or arising from the creation, ownership, use or liquidation of Flixx or any other action or transaction related to the Flixxo Platform.
 
 18.	Dispute Resolution by Arbitration
-PLEASE READ THE FOLLOWING CLAUSE CAREFULLY BECAUSE IT CONTAINS CERTAIN PROVISIONS, SUCH AS A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER, WHICH AFFECT YOUR LEGAL RIGHTS. THIS CLAUSE REQUIRES YOU TO ARBITRATE CERTAIN DISPUTES AND CLAIMS WITH FLIXXO AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US.   
+
+PLEASE READ THE FOLLOWING CLAUSE CAREFULLY BECAUSE IT CONTAINS CERTAIN PROVISIONS, SUCH AS A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER, WHICH AFFECT YOUR LEGAL RIGHTS. THIS CLAUSE REQUIRES YOU TO ARBITRATE CERTAIN DISPUTES AND CLAIMS WITH FLIXXO AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US.
+
 18.1.	Binding Arbitration. Except for any disputes, claims, suits, actions, causes of action, demands or proceedings (collectively, “Disputes”) in which either Party seeks injunctive or other equitable relief for the alleged unlawful use of intellectual property, including, without limitation, copyrights, trademarks, trade names, logos, trade secrets or patents, you and Flixxo (i) waive your and Flixxo’s respective rights to have any and all Disputes arising from or related to these T&Cs resolved in a court, and (ii) waive your and Flixxo’s respective rights to a jury trial. Instead, you and Flixxo agree to arbitrate Disputes through binding arbitration (which is the referral of a Dispute to one or more persons charged with reviewing the Dispute and making a final and binding determination to resolve it instead of having the Dispute decided by a judge or jury in court).
 
 18.2.	No Class Arbitrations, Class Actions or Representative Actions. Any Dispute arising out of or related to these T&Cs is personal to you and Flixxo and will be resolved solely through individual arbitration and will not be brought as a class arbitration, class action or any other type of representative proceeding. There will be no class arbitration or arbitration in which an individual attempts to resolve a Dispute as a representative of another individual or group of individuals. Further, a Dispute cannot be brought as a class or other type of representative action, whether within or outside of arbitration, or on behalf of any other individual or group of individuals.
@@ -255,7 +248,7 @@ PLEASE READ THE FOLLOWING CLAUSE CAREFULLY BECAUSE IT CONTAINS CERTAIN PROVISION
 
 19.1.	The Contributor understands and accepts that the network of miners will ultimately be in control of the Smart Contract System and that a majority of these miners could agree at any point to make changes to the official Smart Contract System and to run a new version of the Smart Contract System. Such a scenario could lead to Flixx losing intrinsic value.
 
-19.2.	We may amend these T&Cs from time to time, including where there are changes to the intended functionality of Flixx or as may be otherwise required by any laws or regulatory requirements to which we are subject. If we make any amendments to these T&Cs, we will publish a notice together with the updated T&Cs on our website and we will change the “Last Updated” date at the top of these T&Cs. Any amended T&Cs shall become effective immediately upon the publication of notice and updated T&Cs on our website. It is your responsibility to regularly check our website for any such notices and updated T&Cs.  
+19.2.	We may amend these T&Cs from time to time, including where there are changes to the intended functionality of Flixx or as may be otherwise required by any laws or regulatory requirements to which we are subject. If we make any amendments to these T&Cs, we will publish a notice together with the updated T&Cs on our website and we will change the “Last Updated” date at the top of these T&Cs. Any amended T&Cs shall become effective immediately upon the publication of notice and updated T&Cs on our website. It is your responsibility to regularly check our website for any such notices and updated T&Cs.
 
 19.3.	If any term, clause or provision of these T&Cs is found to be illegal, void or unenforceable (in whole or in part), then such term, clause or provision shall be severable from these T&Cs without affecting the validity or enforceability of any remaining part of that term, clause or provision, or any other term, clause or provision of these T&Cs, which shall remain in full force and effect.
 
@@ -269,25 +262,41 @@ PLEASE READ THE FOLLOWING CLAUSE CAREFULLY BECAUSE IT CONTAINS CERTAIN PROVISION
 
 19.8.	Subject to clause 1.A.18, these T&Cs and any dispute or claim arising out of or in connection with their subject matter or formation (including non-contractual disputes and claims) shall be governed by and construed in accordance with Gibraltar Law.
 
-19.9.	The Parties irrevocably agree that the Gibraltar courts shall have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with these T&Cs or their subject matter or formation (including non-contractual disputes and claims).
-SCHEDULE 1
-INTENDED FUNCTIONALITY OF Flixx
+19.9.	The Parties irrevocably agree that the Gibraltar courts shall have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with these T&Cs or their subject matter or formation (including non-contractual disputes and claims).
+
+**SCHEDULE 1
+
+**INTENDED FUNCTIONALITY OF Flixx
+
 Activity in the Flixxo Platform is intended to be performed primarily using Flixx. Flixx’s principal purpose is therefore to operate as an ‘in-app currency’.
+
 At the protocol level, tokens are required as an incentive for distributors to store and share content to users. Tokens are also awarded to content producers for each download. At the application level, tokens are used to reward any behaviour that token holders consider worthy, like generating content reviews or relevant comments.
+
 Additional functionality may be provided by other smart contracts, like for example the ability to freeze tokens as a means of warranty to prevent spam or inappropriate content.
+
 [Although services can be acquired on the Flixxo Platform in fiat currency, users will be incentivised to use Flixx as there will be lower transaction fees and rewards for transacting in Flixx].
+
 The intention is to create an internal economy within the Flixxo Platform, whereby Flixx will be an integral part which drives this ecosystem. Flixx will therefore continuously circulate within the Flixxo ecosystem, passing from one user to another as a means of consideration for the acquisition of goods/services.
+
 Tied-in to the “in-app currency” functionality, Flixx will be used to reward users and participants of the Flixxo Platform for contributing to its development, success and growth.
+
 It is envisaged that 900,000,000 Flixx will be created. 200,000,000 Flixx will be sold during the Token Sale and 700,000,000 Flixx will be retained in the smart contract with predefined withdrawal conditions as follows:
+
 〈	100,000,000 Flixx will remain on hands of the development team and partners, vested proportionally on two years.
+
 〈	100,000,000 Flixx will remain with the Company in order to cover the costs of the Token Sale and for future partnerships with content providers.
+
 〈	500,000,000 will be distributed in a predefined and regulated manner, and set up into a smart contract that will allocate Flixx in automatically in the form of incentives to attract users and producers into the Flixxo Platform. Those incentives will decrease to zero along the first five years and the remaining Flixx after this period will be given away in different reward programs to be defined by the Company to users who join the Flixxo Platform.
 The following non-exhaustive list of activities is indicative of how rewards might be earned on the Flixxo Platform:
 
 19.9.1.a)	Video production, distribution or other generation of content on the Flixxo Platform;
+
 19.9.1.b)	Generation or dissemination of reviews on content and/or providing commentary on such content;
+
 19.9.1.c)	helping to register new users who provide services or use services offered by other users;
+
 19.9.1.d)	providing reliable and trusted ratings which contribute to a user’s reputation on the Flixxo Platform;
+
 19.9.1.e)	engaging in activity on the Flixxo Platform (such as buying a service from another user) that results in the exchange of Flixx between users;
 19.9.1.f)	providing support to other users by guiding them through the Flixxo Platform utility and helping them establish a presence on the network;
 19.9.1.g)	providing assistance to the community by supporting the creation of new features/tools and facilitating the future enhancement of the Flixxo Platform;
@@ -297,13 +306,15 @@ The following non-exhaustive list of activities is indicative of how rewards mig
 
 Flixx is not intended to have functionality or utility outside the Flixxo Platform. The Flixxo Platform will therefore be structured as a “closed system” insofar as the use of Flixx is concerned.
 
-POSSIBILITY OF CHANGE TO THE FUNCTIONALITY OF FLIXX
+**POSSIBILITY OF CHANGE TO THE FUNCTIONALITY OF FLIXX
+
 PLEASE NOTE THAT WE ARE IN THE PROCESS OF UNDERTAKING A LEGAL AND REGULATORY ANALYSIS OF THE FUNCTIONALITY OF FLIXX. FOLLOWING THE CONCLUSION OF THIS ANALYSIS, WE MAY DECIDE TO AMEND THE INTENDED FUNCTIONALITY OF FLIXX IN ORDER TO ENSURE COMPLIANCE WITH ANY LEGAL OR REGULATORY REQUIREMENTS TO WHICH WE ARE SUBJECT. WE SHALL PUBLISH A NOTICE ON OUR WEBSITE OF ANY CHANGES THAT WE DECIDE TO MAKE TO THE FUNCTIONALITY OF FLIXX AND IT IS YOUR RESPONSIBILITY TO REGULARLY CHECK OUR WEBSITE FOR ANY SUCH NOTICES. ON THE CONLCUSION OF THIS ANALYSIS, WE WILL DECIDE WHETHER OR NOT TO CHANGE THE FUNCTIONALITY OF FLIXX. CONSEQUENTLY, YOU MAY UNDER CERTAIN CIRCUMSTANCES BE ENTITLED TO CLAIM A REFUND OF YOUR CONTRIBUTION FROM US IN ACCORDANCE WITH THESE T&Cs ON SUCH TERMS AND CONDITIONS AS FLIXXO MAY PRESCRIBE IN ITS REFUND POLICY WHICH SHALL BE MADE AVAILABLE ON ITS WEBSITE.
+
 THE COMPANY MAKES NO WARRANTY WHATSOEVER WITH RESPECT TO FLIXX, INCLUDING ANY (i) WARRANTY OF MERCHANTABILITY; (ii) WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE; (iii) WARRANTY OF TITLE; OR (iv) WARRANTY AGAINST INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OF A THIRD PARTY; WHETHER ARISING BY LAW, COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE OF TRADE, OR OTHERWISE. EXCEPT AS EXPRESSLY SET FORTH HEREIN, CONTRIBUTOR ACKNOWLEDGES THAT IT HAS NOT RELIED UPON ANY REPRESENTATION OR WARRANTY MADE BY THE COMPANY, OR ANY OTHER PERSON ON THE COMPANY'S BEHALF.
- 
-
-SCHEDULE 2
-RISK FACTORS
+
+**SCHEDULE 2
+
+**RISK FACTORS
 
 1.	Risk of software weaknesses: because Flixx, the Smart Contract System and the Flixxo Platform are based on the Ethereum protocol, any malfunction, breakdown or abandonment of the Ethereum protocol may have a material adverse effect on Flixx, the Smart Contract System and/or the Flixxo Platform. Moreover, advances in cryptography, or technical advances such as the development of quantum computing, could present risks to the Flixx (including the utility of Flixx for obtaining services), the Smart Contract System and/or the Flixxo Platform, by rendering ineffective the cryptographic consensus mechanism that underpins the Ethereum protocol. The Smart Contract System concept, the underlying software application and software platform (i.e. the Ethereum blockchain) is still in an early development stage and unproven. There is no warranty or assurance that the process for creating Flixx will be uninterrupted or error-free and why there is an inherent risk that the software could contain defects, weaknesses, vulnerabilities, viruses or bugs causing, inter alia, the complete loss of contributions and/or Flixx.
 
