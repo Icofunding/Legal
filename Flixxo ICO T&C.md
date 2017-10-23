@@ -2,7 +2,7 @@
 
 **Last updated: 23 October 2017**
 
-PLEASE READ THESE TERMS AND CONDITIONS (“T&Cs”) CAREFULLY. BY MAKING A CONTRIBUTION TO FLIXXO LIMITED FOR THE PURCHASE OF FLIXXO TOKENS (“FLIXX”) DURING THE TOKEN SALE, YOU WILL BE BOUND BY THESE T&Cs AND ALL TERMS INCORPORATED HEREIN BY REFERENCE.
+PLEASE READ THESE TERMS AND CONDITIONS (“**T&Cs**”) CAREFULLY. BY MAKING A CONTRIBUTION TO FLIXXO LIMITED FOR THE PURCHASE OF FLIXXO TOKENS (“**FLIXX**”) DURING THE TOKEN SALE, YOU WILL BE BOUND BY THESE T&Cs AND ALL TERMS INCORPORATED HEREIN BY REFERENCE.
 
 BY ACCEPTING THESE T&CS, YOU WILL BE ENTERING INTO A BINDING AGREEMENT WITH FLIXXO LIMITED. IN EXCHANGE FOR THE PAYMENT BY THE CONTRIBUTOR OF A CONTRIBUTION MADE DURING THE CONTRIBUTION PERIOD FLIXXO AGREES TO ISSUE TO CONTRIBUTOR CERTAIN UNITS OF FLIXX SUBJECT TO THE TERMS SET FORTH IN THESE T&Cs.
 
@@ -14,54 +14,56 @@ Due to legal and regulatory uncertainty in the United States of America, citizen
 
 **PARTIES TO THESE T&Cs
 
-FLIXXO LIMITED is a company incorporated and registered in Gibraltar with registration number 116199 and shall be the creator of Flixx under these T&Cs. There may be other entities within the Flixxo group of companies from time to time (“Flixxo Companies”) that will develop, manage and/or operate the Flixxo Platform (as defined in clause 1 below) (or parts thereof) and references in these T&Cs to “Flixxo”, “Company”, “we”, “our” or “us” shall be to FLIXXO LIMITED, the Flixxo Companies and their respective successors and assigns.  
+FLIXXO LIMITED is a company incorporated and registered in Gibraltar with registration number 116199 and shall be the creator of Flixx under these T&Cs. There may be other entities within the Flixxo group of companies from time to time (“**Flixxo Companies**”) that will develop, manage and/or operate the Flixxo Platform (as defined in clause 1 below) (or parts thereof) and references in these T&Cs to “**Flixxo**”, “**Company**”, “**we**”, “**our**” or “**us**” shall be to FLIXXO LIMITED, the Flixxo Companies and their respective successors and assigns.  
 
-References in these T&Cs to “Contributor”, “your” or “you” are to the person/entity who accepts these T&Cs and agrees to make a contribution to Flixxo as set out in and on the terms of these T&Cs. You and Flixxo shall together be referred to as the “Parties” and references to a “Party” shall be to the relevant one of them as the context requires.
+References in these T&Cs to “**Contributor**”, “**your**” or “**you**” are to the person/entity who accepts these T&Cs and agrees to make a contribution to Flixxo as set out in and on the terms of these T&Cs. You and Flixxo shall together be referred to as the “**Parties**” and references to a “**Party**” shall be to the relevant one of them as the context requires.
 If you have any questions relating to these T&Cs, please contact us at presale@flixxo.com
 
 **YOU AND FLIXXO HEREBY AGREE AS FOLLOWS:
 
-1.	Flixxo Platform
+1.	**Flixxo Platform
 
-1.1.	Flixxo is a decentralized platform (the “Flixxo Platform”) aimed at developing an economy on top of a distributed video distribution network that leverages the Ethereum blockchain to provide a decentralized payment and incentive framework. The Platform will handle a video distribution ecosystem based on rules that have been determined by both (i) the Platform’s general infrastructure and (ii) the specific requirements of the relevant user.
+1.1.	Flixxo is a decentralized platform (the “**Flixxo Platform**”) aimed at **developing an economy on top of a distributed video distribution network** that leverages the Ethereum blockchain to provide a decentralized payment and incentive framework. The Platform will handle **a video distribution ecosystem** based on rules that have been determined by both (i) the Platform’s general infrastructure and (ii) the specific requirements of the relevant user.
 
 1.2.	For a more detailed description of the proposed Flixxo Platform, please refer to
 
 1.2.1.a)	the Flixxo website at https://www.flixxo.com/;
 
-1.2.1.b)	the Flixxo Whitepaper (a copy of which can be found at 				https://www.flixxo.com/assets/docs/flixxo-white-paper_v0.5.pdf);(collectively referred to as the “Project Documentation”)
+1.2.1.b)	the Flixxo Whitepaper (a copy of which can be found at 				https://www.flixxo.com/assets/docs/flixxo-white-paper_v0.5.pdf);
+
+(collectively referred to as the “**Project Documentation**”)
 
 1.3.	The information contained in the Project Documentation is of descriptive nature only, is not binding and does not form part of these T&Cs.
 
-2.	Scope of T&Cs
+2.	**Scope of T&Cs
 
 2.1.	Save as otherwise set out in these T&Cs, these T&Cs (including any terms incorporated herein by reference) govern only your contribution to Flixxo for the purchase of Flixx during the Contribution Period (as such terms are defined below).
 
-2.2.	Any potential future use of Flixx in connection with the provision or receipt of services on the Flixxo Platform shall be subject to and governed by such other applicable terms, conditions and policies relating to the use of the Flixxo Platform (“Platform Terms”). Such Platform Terms will be made available to Flixxo Platform users, if the Flixxo Platform is successfully developed and deployed.
+2.2.	Any potential future use of Flixx in connection with the provision or receipt of services on the Flixxo Platform shall be subject to and governed by such other applicable terms, conditions and policies relating to the use of the Flixxo Platform (“**Platform Terms**”). Such Platform Terms will be made available to Flixxo Platform users, if the Flixxo Platform is successfully developed and deployed.
 
-3.	Contribution Period
+3.	**Contribution Period
 
-3.1.	Contributions may be made during a defined period of time (“Contribution Period”). The Contribution Period shall commence on 24 October 2017 and shall end on satisfaction of one of the following conditions (“Completion Conditions”) (whichever is the earlier):
+3.1.	Contributions may be made during a defined period of time (“**Contribution Period**”). The Contribution Period shall commence on 24 October 2017 and shall end on satisfaction of one of the following conditions (“**Completion Conditions**”) (whichever is the earlier):
 
-3.1.1.a)	200,0000,000 (“FLIXX”) are issued in exchange of ("ETH") by the Smart Contract System (as defined in these T&Cs); or
+3.1.1.a)	200,0000,000 (“**FLIXX**”) are issued in exchange of ("**ETH**") by the Smart Contract System (as defined in these T&Cs); or
 
 3.1.1.b)	the expiry of 1 month from the commencement of the Contribution Period.
 
-4.	Creation and issue of Flixx through the Smart Contract System
+4.	**Creation and issue of Flixx through the Smart Contract System
 
-4.1.	Flixxo has deployed a smart contract system (the “Smart Contract System”) on the Ethereum blockchain for the purposes of creating its own proprietary tokens (“Flixx”) and issuing such Flixx to the Contributor’s Ethereum wallet. Flixx shall be based on the ERC20 token standard and is intended to have the functionality set out in Schedule 1.
+4.1.	Flixxo has deployed a smart contract system (the “**Smart Contract System**”) on the Ethereum blockchain for the purposes of creating its own proprietary tokens (“**Flixx**”) and issuing such Flixx to the Contributor’s Ethereum wallet. Flixx shall be based on the ERC20 token standard and is intended to have the functionality set out in Schedule 1.
 
 4.2.	The Smart Contract System shall be made available to receive contributions during the Contribution Period.
 
-5.	Method of Contribution
+5.	**Method of Contribution
 
 5.1.	You may contribute to Flixxo during the Token Sale in the manner described in this clause 1.A.5.
 
 5.2.	The creation and issue of Flixx shall be initiated by the Contributor transferring an amount in ETH during the Contribution Period to the Smart Contract System, located on the Ethereum blockchain at the address to be published on http://www.flixxo.com when the Contribution Period commences. The Smart Contract System’s receipt of the contribution in Ether from the Contributor will trigger a smart contract operation whereby Flixx will be created and issued to the Ethereum wallet address from which the contribution was received.
 
-5.3.	Contributions shall be sent exclusively to the Smart Contract System’s address specified on the Flixxo website in accordance with clause 1.A.5.2.. To the extent that any third-party website, service or smart-contract offers to receive contributions and issue Flixx or facilitates the allocation or transfer of Flixx in any way during the Contribution Period, such third-party websites or services are, unless expressly set out in these T&Cs or mentioned on the Flixxo website, not authorised by Flixxo nor do they have any legal or commercial relationship in any way with Flixxo, the Flixxo Platform or Flixx.
+5.3.	**Contributions shall be sent exclusively to the Smart Contract System’s address specified on the Flixxo website** in accordance with clause 1.A.5.2.. To the extent that any third-party website, service or smart-contract offers to receive contributions and issue Flixx or facilitates the allocation or transfer of Flixx in any way during the Contribution Period, such third-party websites or services are, unless expressly set out in these T&Cs or mentioned on the Flixxo website, not authorised by Flixxo nor do they have any legal or commercial relationship in any way with Flixxo, the Flixxo Platform or Flixx.
 
-5.4.	The Smart Contract System shall only accept contributions that are made in ETH. The Smart Contract System will not accept any contributions made in fiat currencies or any crypto-currencies (other than ETH). Contributors that send contributions:
+5.4.	**The Smart Contract System shall only accept contributions that are made in ETH**. The Smart Contract System will not accept any contributions made in fiat currencies or any crypto-currencies (other than ETH). Contributors that send contributions:
 
 5.4.1.a)	in a fiat currency or any cryptocurrency other than ETH; or
 
@@ -69,11 +71,12 @@ If you have any questions relating to these T&Cs, please contact us at presale@f
 
 risk losing their entire contribution and Flixxo shall not be responsible or liable for recovering or returning any such contributions to the Contributor nor shall Flixxo be responsible or liable for any losses incurred by the Contributor in this respect.
 
-5.5.	        In order to receive Flixx, Contributors must have an Ethereum wallet that supports the ERC20 token standard (in other words the Contributor’s Ethereum wallet must possess technical infrastructure that is compatible with the receipt, storage and transfer of Flixx, being tokens that are created based on the ERC20 token standard). Flixxo reserves the right to prescribe additional conditions relating to the specific wallet requirements at any time acting in its sole and absolute discretion.
+5.5.	        **In order to receive Flixx, Contributors must have an Ethereum wallet that supports the ERC20 token standard** (in other words the Contributor’s Ethereum wallet must possess technical infrastructure that is compatible with the receipt, storage and transfer of Flixx, being tokens that are created based on the ERC20 token standard). Flixxo reserves the right to prescribe additional conditions relating to the specific wallet requirements at any time acting in its sole and absolute discretion.
 
 5.6.	Subject to compliance with the foregoing provisions of this clause the creation and issue of Flixx through the Smart Contract System, and delivery of Flixx to the Contributor’s Ethereum wallet address shall be made approximately one month after conclusion of the Contribution Period.
 
-6.	Flixx Price
+6.	**Flixx Price
+
 The price per Flixx will be denominated in Ether and base price of Flixx shall be 0.00025 ETH = 1 Flixx but:
 
 6.1.1.a)	Tier 1 contributors who participate in the first 24hs of the Token Sale (“Tier 1 Bonus Period”) will receive a 30% bonus in the number of Flixx (e.g. suppose 1 ETH = 4000 Flixx. During the Tier 1 Bonus Period, 1 ETH = 5200 Flixx);
@@ -87,7 +90,7 @@ The price per Flixx will be denominated in Ether and base price of Flixx shall b
 
 6.1.1.e)	Tier 5 contributors who participate in the final 9 days (day 22 to 30 of ICO, “Tier 5 Bonus Period”), will receive a 10% bonus in the number of Flixx (e.g. suppose 1 ETH= 4000 Flixx. During the Tier 5 Bonus Period, 1 ETH = 4400 Flixx)]
 
-7.	Refunds, Refusals, Suspension and Termination of Contributions
+7.	**Refunds, Refusals, Suspension and Termination of Contributions
 
 7.1.	Flixxo has imposed a minimum aggregate contribution target equivalent to 5,000 ETH (“Minimum Target”). If on conclusion of the Contribution Period, the aggregate sum of all contributions received by Flixxo is less than the Minimum Target, Flixxo shall, within a reasonable period of time, exercise reasonable endeavours to procure that contributions are returned to the Contributor.
 
@@ -99,7 +102,7 @@ The price per Flixx will be denominated in Ether and base price of Flixx shall b
 
 7.5.	During any period of suspension or in the event that the Contribution Period is aborted, the Smart Contract System will no longer be able to receive and accept contributions, create Flixx and/or issue Flixx to Contributors. Contributors who send us contributions (after we publish a notice that the Token Sale has been suspended or aborted in accordance with clause 1.A.7.4) risk losing their entire contribution and we shall not be responsible or liable for recovering or returning any such contributions to the Contributor nor shall we be responsible or liable for any losses incurred by the Contributor in this respect. Contributors are therefore strongly advised to check our website before sending a contribution to the Smart Contract System.
 
-8.	Token Functionality
+8.	**Token Functionality
 
 8.1.	Ownership of Flixx carries no rights, whether express or implied, other than a limited potential future right or expectation to use and interact with the Flixxo Platform (as further described in Schedule 1), if and to the extent the Flixxo Platform is successfully developed and deployed. Any potential future right or expectation relating to the provision and receipt of services on the Flixxo Platform shall be subject to any restrictions and limitations set out in these T&Cs and/or the Platform Terms (as applicable).
 
@@ -117,7 +120,7 @@ The price per Flixx will be denominated in Ether and base price of Flixx shall b
 
 8.4.	Flixxo makes no warranties or representations and offers no assurances (in each case whether express or implied) that Flixx shall confer any actual and/or exercisable rights of use, functionality, features, purpose or attributes in connection with the Flixxo Platform.
 
-9.	Contributor’s Representations and Warranties
+9.	**Contributor’s Representations and Warranties
 
 9.1.	By participating in the Token Sale and sending a contribution to Flixxo, you hereby represent and warrant that:
  
@@ -156,27 +159,28 @@ The price per Flixx will be denominated in Ether and base price of Flixx shall b
 9.1.1.q)	you will comply with any applicable tax obligations in your jurisdiction arising from your acquisition, storage, sale or transfer of Flixx; and
 
 9.1.1.r)	you shall send your contribution from an Ethereum wallet that supports the ERC20 token standard (i.e. technically supports the receipt, storage, holding and transfer of tokens such as Flixx).
-10.	Risks
+
+10.	**Risks
 
 You acknowledge and agree that sending a contribution to Flixxo, the creation and issue of Flixx and the development and deployment of the Flixxo Platform carries significant financial, regulatory and reputational risks, including but not limited to those set out in Schedule 2 of these T&Cs.
 
-BY MAKING A CONTRIBUTION TO FLIXXO AND ACCEPTING THESE T&Cs YOU EXPRESSLY ACKNOWLEDGE, ACCEPT AND ASSUME THESE RISKS.
+**BY MAKING A CONTRIBUTION TO FLIXXO AND ACCEPTING THESE T&Cs YOU EXPRESSLY ACKNOWLEDGE, ACCEPT AND ASSUME THESE RISKS.
 
-11.	Audit of the Smart Contract System
+11.	**Audit of the Smart Contract System
   
 11.1.	Flixxo shall exercise reasonable endeavours to have the Smart Contract System audited and approved by technical experts with regard to both accuracy and security of the underlying code.
 
 11.2.	Notwithstanding clause 1.A.11.1, smart contract technology is still in an early stage of development and its application is currently of an experimental nature, which carries significant operational, technological, financial, regulatory and reputational risks. Accordingly, while any audit conducted shall raise the level of security and accuracy of the Smart Contract System, you acknowledge, understand and accept that the audit does not amount to any form of warranty, representation or assurance (in each case whether express or implied) that the Smart Contract System and Flixx are fit for a particular purpose or that they are free from any defects, weaknesses, vulnerabilities, viruses or bugs which could cause, inter alia, the complete loss of ETH contributions and/or Flixx.
 
-12.	Security
+12.	**Security
 
 You are responsible for implementing all reasonable and appropriate measures for securing the wallet, vault or other storage mechanism you use to send a contribution to Flixxo and to receive and store Flixx that are issued to you by the Smart Contract System, including any requisite private key(s) or other credentials necessary to access such storage mechanism(s). If your private key(s) or other access credentials are lost, you may lose access to your Flixx.  Flixxo shall not be responsible for any security measures relating to your receipt, possession, storage, transfer or potential future use of Flixx nor shall we be under any obligation to recover or return any Flixx and we hereby exclude (to the fullest extent permitted under applicable law) any and all liability for any security breaches or other acts or omissions which result in your loss of (including your loss of access to) Flixx issued to you during the Token Sale.
 
-13.	Right to Request Information
+13.	**Right to Request Information
 
 We may determine, in our sole and absolute discretion, that it is necessary to obtain certain information about you in order to comply with applicable law in connection with the creation and issue of Flixx to you. You agree to provide us such information promptly upon request, and you acknowledge and accept that we may refuse or reject any contributions for the purchase of Flixx until you provide such requested information and we have determined that it is permissible to create and issue Flixx to you under applicable law.
  
-14.	Indemnity
+14.	**Indemnity
 
 14.1.	To the fullest extent permitted by applicable law, you will indemnify, defend and hold harmless Flixxo and our respective past, present and future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns (the “Flixxo Parties”) from and against any and all claims, demands, actions, damages, losses, costs and expenses (including reasonable professional and legal fees) that arise from or relate to:
 
@@ -192,7 +196,7 @@ We may determine, in our sole and absolute discretion, that it is necessary to o
 
 14.3.	The indemnity set out in this clause 1.A.14 is in addition to, and not in lieu of, any other remedies that may be available to Flixxo under applicable law.
 
-15.	Disclaimers
+15.	**Disclaimers
 
 15.1.	To the fullest extent permitted by applicable law and except as otherwise specified in writing by us:
 
@@ -206,7 +210,7 @@ We may determine, in our sole and absolute discretion, that it is necessary to o
    
 15.3.	No regulatory authority has examined or approved of any of the information set out in these T&Cs and/or the Flixxo Whitepaper. No such action has been or will be taken under the laws, regulatory requirements or rules of any jurisdiction. The publication, distribution or dissemination of these T&Cs and/or the Project Documentation does not imply that applicable laws, regulatory requirements or rules have been complied with.
 
-16.	Limitation of Liability
+16.	**Limitation of Liability
  
 16.1.	To the fullest extent permitted by applicable law, in no circumstances shall:
 
@@ -216,7 +220,7 @@ We may determine, in our sole and absolute discretion, that it is necessary to o
 
 16.2.	The limitations and exclusions of liability set out in clause 1.A.16.1 shall not limit or exclude liability for the gross negligence, fraud or intentional, wilful or reckless misconduct of Flixxo, nor shall it limit or exclude any losses for which, as a matter of applicable law, it would be unlawful to limit or exclude liability.
 
-17.	Taxation
+17.	**Taxation
 
 17.1.	You are solely responsible for determining whether your contribution to Flixxo for the development of the Flixxo Platform, the transfer of ETH, the creation, ownership, use, sale, transfer or liquidation of Flixx, the potential appreciation or depreciation in the value of Flixx over time (if any), the allocation of Flixx and/or any other action or transaction contemplated by these T&Cs or related to the Flixxo Platform will give rise to any tax implications on your part.
 
@@ -224,7 +228,7 @@ We may determine, in our sole and absolute discretion, that it is necessary to o
 
 17.3.	You agree not to hold Flixxo or any of the Flixxo Parties liable for any tax liability associated with or arising from the creation, ownership, use or liquidation of Flixx or any other action or transaction related to the Flixxo Platform.
 
-18.	Dispute Resolution by Arbitration
+18.	**Dispute Resolution by Arbitration
 
 PLEASE READ THE FOLLOWING CLAUSE CAREFULLY BECAUSE IT CONTAINS CERTAIN PROVISIONS, SUCH AS A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER, WHICH AFFECT YOUR LEGAL RIGHTS. THIS CLAUSE REQUIRES YOU TO ARBITRATE CERTAIN DISPUTES AND CLAIMS WITH FLIXXO AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US.
 
@@ -244,7 +248,7 @@ PLEASE READ THE FOLLOWING CLAUSE CAREFULLY BECAUSE IT CONTAINS CERTAIN PROVISION
 
 18.8.	Severability of Dispute Resolution and Arbitration Provisions. If any term, clause or provision of this clause 1.A.18 is held invalid or unenforceable, it will be so held to the minimum extent applicable and required by law, and all other terms, clauses and provisions of this clause 1.A.18 will remain valid and enforceable. Further, the waivers set forth in clause 1.A.18.2 above are severable from the other provisions of these T&Cs and will remain valid and enforceable, except as prohibited by applicable law.
 
-19.	Miscellaneous
+19.	**Miscellaneous
 
 19.1.	The Contributor understands and accepts that the network of miners will ultimately be in control of the Smart Contract System and that a majority of these miners could agree at any point to make changes to the official Smart Contract System and to run a new version of the Smart Contract System. Such a scenario could lead to Flixx losing intrinsic value.
 
