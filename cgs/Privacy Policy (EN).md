@@ -1,6 +1,6 @@
 ### Privacy Policy
 
-In compliance with Spanish Organic Law 15/99 of December 13, Protection of personal data, we inform you that the personal data communicated through Coin Governance System (CGS) channels will be incorporated into a file owned by the company ICOFUNDING SL, a company duly incorporated in Spain with NIF B87890588 (hereinafter ICOFUNDING), for the purposes set out below, depending on the type of service requested.
+In compliance with Spanish Organic Law 15/99 of December 13, Protection of personal data, we inform you that the personal data communicated through Coin Governance System (CGS) channels will be incorporated into a file owned by the company ICOFUNDING SL, a company duly incorporated in Spain with NIF B87890588 (hereinafter ICOFUNDING), for the purposes set out below, depending on the type of service requested. Coin Governance System (CGS) is a trademark owned by Icofunding.
 
 * PROMOTIONAL FORM: to send information, news and promotions that may be of interest, related to the activities of ICOFUNDING.
 
