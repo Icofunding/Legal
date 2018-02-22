@@ -5,6 +5,18 @@ En cumplimiento de lo establecido en la Ley Orgánica 15/99 de 13 de Diciembre d
 
 * Formulario PROMOCIONAL: remisión de información, novedades y promociones que pudieran ser de su interés, relacionadas con las actividades de ICOFUNDING.
 
+* Formulario de Contacto: para contestar a requerimientos de información que realice el usuario a través de este medio.
+
+* Formulario de Registro: Formulario de acceso a los servicios de Coin Governance System (CGS)
+
+* Formulario de registro: para acceder a diferentes servicios.
+
+* Seguimiento de cuentas corporativas de Facebook de CGS.
+
+* Seguimiento de cuentas corporativas de Linkedin de CGS.
+
+* Seguimiento de cuentas corporativas de Twitter de CGS.
+
 En todos los casos, sus datos podrán ser utilizados para el envío de comunicaciones comerciales electrónicas sobre servicios comercializados por ICOFUNDING, pudiendo en cualquier momento oponerse a dicho tratamiento con finalidad comercial enviando un correo electrónico a la dirección info@icofunding.com.
 
 El Usuario acepta expresamente el contenido del Aviso Legal que regula la prestación de los servicios.
