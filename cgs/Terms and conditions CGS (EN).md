@@ -322,7 +322,7 @@ The Company operates and controls the Services from its offices in Spain. The Co
 
 #### B. **Amendments to this Agreement** 
 
-We may amend this Agreement at any time in our sole discretion, effective upon posting the amended Terms and Conditions at the domain of https://icofunding.com where the prior version of this Agreement was posted or by communicating these changes through any written or other contact method we have established with you. Your use of the Services following the date on which such amended Terms are published will constitute consent to such amendments. Neither the course of conduct between the parties nor trade practice will act to modify this Agreement.
+We may amend this Agreement at any time in our sole discretion, effective upon posting the amended Terms and Conditions at the domain of https://cgs.vote where the prior version of this Agreement was posted or by communicating these changes through any written or other contact method we have established with you. Your use of the Services following the date on which such amended Terms are published will constitute consent to such amendments. Neither the course of conduct between the parties nor trade practice will act to modify this Agreement.
 
 #### C. Waiver and Severability
 
