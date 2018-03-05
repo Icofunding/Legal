@@ -18,7 +18,10 @@
 
 ### 1. <a name="introduction">**Introduction**</a>
 
-**Icofunding** is a Platform designed to help startups create and manage their own Token Sales or Initial Coin Offering (ICO). Icofunding also provides Services to the Token Buyers whereby controls are set to monitor ICOs in accordance with the Initial established goals.
+**Coin Governance System** (hereinafter, CGS) is a Platform owned by **Icofunding S.L.**. CGS consists of a series of services to Initial Coin Offerings (hereinafter, ICO) participants whereby controls are set to monitor ICOs in accordance with the Initial established goals.
+
+
+------------
 
 Users of this Platform are able to create an account in order to launch their own **Token Sale** as **ICO Launcher**, or to purchase Token issued through a Token Sale, as **Token Buyers**. 
 
