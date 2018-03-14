@@ -33,7 +33,7 @@ Este acuerdo establece los términos en los que los ICO Launchers interactúan c
 **ICO LAUNCHERS**: Si el Usuario es un ICO Launcher, podrá subir a la Plataforma información sobre su proyecto, tal como su plan de negocio, caractersticas de su token, información sobre el equipo detrs del proyecto, entre otros a nuestra Platadorma https://icofunding.com
 If you are an ICO Launcher, you could upload information about your project, such as your business plan, Token features, roadmap, team info, among others to our platform https://icofunding.com - La “Web".
 
-**TComprdores de Tokens**: Los Compradores de Tokens han de entender el riesgo de comprar Tokens Emitidos por empresas en etapas tempranas de desarrollo. Como comprador de Tokens, el Usuario puede participar en Tokens Sales e Initial Coin Offerings a través de la Plataforma.
+**Comprdores de Tokens**: Los Compradores de Tokens han de entender el riesgo de comprar Tokens Emitidos por empresas en etapas tempranas de desarrollo. Como comprador de Tokens, el Usuario puede participar en Tokens Sales e Initial Coin Offerings a través de la Plataforma.
 
 **USUARIOS GENERALES**: Ciertas partes de la Web serán visibles para Usuarios que no han iniciado sesión o creado una cuenta. Dichos Usuarios están igualmente obligados por los presentes Términos.
 
