@@ -21,7 +21,7 @@ This Agreement sets forth terms on which ICO Launchers interact with ICO token h
 
 ### 2. **ICO Launcher's Obligations**
 
-The ICO Launcher wish to cooperate with CGS in order to integrate a software developed by Governance System Platform for the its Initial Coin Offering.
+The ICO Launcher wish to cooperate with CGS in order to integrate a software developed by Governance System Platform for its Initial Coin Offering.
  
 The purpose of this Terms and Conditions (hereinafter, “Terms & Conditions” or “T&C”) is to define the cooperation between CGS and the ICO Launcher, according to the following principles:
 
@@ -55,7 +55,7 @@ CGS has the right to use the terms “client”, “user”, “ICO using CGS”
  
 ICO Launcher’s obligations:
 
-The Client hereby agrees to pay a fee of EUR 0 (ZERO) to * in exchange of the services included in the current Terms & Conditions once its terms are negotiated in a further agreement. The precise conditions of the Deployment Services Agreement shall be defined by common agreement between the Parties under an annex to this Terms & Conditions.
+The precise conditions of the Deployment Services Agreement shall be defined by common agreement between the Parties under an annex to this Terms & Conditions.
 
 #### 2.5 Relationship between the Parties
  
