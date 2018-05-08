@@ -248,7 +248,7 @@ CGS also has the right to access, read, preserve, and disclose any information i
 
 You agree that CGS is exempt from liability to any person for any claim based upon its termination of an account or disabling of access to or removal of any Content. By using the Services, you agree that notice to you through an email to the email address you provided in your profile constitutes notification of any removal or disabling if such notice is required.
 
-### 6. <a name="limits-on-CGSs-obligations">**Limits on CGS's Obligations**</a>
+### 6. <a name="limits-on-CGS-obligations">**Limits on CGS's Obligations**</a>
 
 #### A. **Verifying Due Diligence**
 
