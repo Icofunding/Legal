@@ -23,7 +23,7 @@ to send Curriculum to Wevern by any means
 
 * **Data collected**: professional expertise area, name, surname, telephone, e-mail, CV, cover letter, salary expectations.
 Purpose: made available to manage current recruitment processes or other openings that may arise within CGS that fit your professional profile.
-* **Legitimate Base*: legitimate interest.
+* **Legitimate Base**: legitimate interest.
 * **Storage limitation**: applicants data will only be kept for as long as it is necessary for the purposes for which it is processed, and then data might be kept blocked and maintained for two years at the disposal of Public Administration and Justice Administration in order to determine any liability arising from the processing.
 
 * **Data collected**: professional expertise area, name, surname, telephone, e-mail, CV, cover letter and other personal data related to the Curriculum or professional profile.
