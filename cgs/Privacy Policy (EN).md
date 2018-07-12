@@ -1,35 +1,48 @@
 ### Privacy Policy
 
-In compliance with the provisions of the Regulation (EU) 2016/679 of the European Parliament and of the Council, of April 27 2016, on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (hereinafter RGPD) we inform you that the personal data provided will be processed by Governance System Platform, Ltd. (hereinafter CGS, address: St. Cristobal Bordiú, 13, Ent B, 28003 – Madrid - Spain, telephone number 915780256. Should you have any questions about this Privacy Policy you can contact us at info@cgs.vote or at the address mentioned above. 
+In compliance with the provisions of the Regulation (EU) 2016/679 of the European Parliament and of the Council, of April 27 2016, on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (hereinafter RGPD) we inform you that the personal data provided will be processed by Wevern, Ltd. (hereinafter CGS, address: St. Cristobal Bordiú, 13, Ent B, 28003 – Madrid - Spain, telephone number 915780256. Should you have any questions about this Privacy Policy you can contact us at info@cgs.vote or at the address mentioned above. 
 
 COIN GOVERNANCE SYSTEM will collect the following information provided by the User by completing the contact forms on the Website:
 
 #### CONTACT form: 
 
-To deal with and manage the information requests sent by the User with this form.
+For any matter connected with the processing of data of natural persons by ICOFUNDING you may contact the email address rgpd@company.com, or else you may also get in touch with our Data Protection Delegate by way of the following email address dpo@company.com.
+
+ICOFUNDING will collect the following information provided by the data subject:
+
+#### COMMERCIAL CONTACT
 
 * **Data collected**: name, phone, email and comments.
-* **Purpose**: to deal with requests for information about the company, its services or any other users’ requirements.
-* **Storage limitation**: data will be kept for the time necessary to answer the questions asked by the User and then for a maximum period of one year.
-* **Legitimate Base**: based on the User´s consent CGS is entitled to treat the data provided through the contact form.
+* **Purpose**: to deal with requests for information asked by any means about products and services offered by ICOFUNDING, and for the establishment or maintenance of business relationships.
+* **Lawful basis**: based on the consent given by the data subject, ICOFUNDING is entitled to process the data provided through the contact request, and in accordance with the legitimate interest in the development and maintenance of business relationships.
+* **Storage limitation**: data will be kept until the moment the data subject requests their cancellation or erasure and once deleted they will be kept available to the public administration, judges and courts for the time-barring of the actions that may apply to the processing of your data.
 
-#### RECRUITMENT
+#### CURRICULUM OR RECRUITMENT: 
 
-We process job applicants data received spontaneously or through the adverts we post on LinkedIn during the hiring processes.
+to send Curriculum to Wevern by any means
 
 * **Data collected**: professional expertise area, name, surname, telephone, e-mail, CV, cover letter, salary expectations.
 Purpose: made available to manage current recruitment processes or other openings that may arise within CGS that fit your professional profile.
 * **Legitimate Base*: legitimate interest.
 * **Storage limitation**: applicants data will only be kept for as long as it is necessary for the purposes for which it is processed, and then data might be kept blocked and maintained for two years at the disposal of Public Administration and Justice Administration in order to determine any liability arising from the processing.
 
-### NEWSLETTER form: 
+* **Data collected**: professional expertise area, name, surname, telephone, e-mail, CV, cover letter and other personal data related to the Curriculum or professional profile.
+* **Purpose**: management of the application for the recruitment processes published or for other vacancies according to your professional profile that may arise in the future within the activities of ICOFUNDING.
+* **Storage limitation**: data will be kept until you are awarded a job or until you request their erasure. They will therefore be kept for the time necessary for the purpose of the processing, and once concluded they may be kept for the time-barring of the actions that may apply to the processing of your data.
+* **Lawful basis**: consent granted by the candidate.
+Recipients: data provided and derived from the selection process may be disclosed to:
 
-It is used to register those subscribers interested in receiving our Newsletter.
+Third companies identified by the data subject and that may be necessary for the candidate&#39;s
+request for references.
 
-* **Data collected**: email address. 
-* **Purpose**: to register those subscribers interested in receiving our Newsletters to be up to date with information, news and promotions related to CGS activities.
-* **Legitimate Base**: consent given by the User.
-* **Storage limitation**: Users' data will be kept until the cessation of activity is requested, and then data might be kept blocked and maintained for six years at the disposal of Public Administration and Justice Administration in order to determine any liability arising from the processing.
+### PROMOTIONAL OR NEWSLETTER form: 
+
+The submission of information, news, notices, reminders and promotions that may be of your interest, related to the activities of ICOFUNDING and its clients.
+
+* **Data collected**: email address, first name and surname.
+* **Purpose**: the registration of those who are interested in the submission of information, news and promotions, and to establish or maintain business relationships.
+* **Lawful basis**: the provision of data subject&#39;s consent to WEVERN to be registered in promotional services, and the legitimate interest in the development of business relationships.
+* **Storage limitation**: data will be kept until the moment the data subject requests their cancellation or erasure and once deleted they will be kept available to the public administration, judges and courts for the time-barring of the actions that may apply to the processing of your data.
 
 ### ICO LAUNCHERS REGISTRATION form: 
 
