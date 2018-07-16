@@ -16,7 +16,7 @@ icofunding.com.
 * **Tax Code number**: B87890588
 * **Entried into** the Commercial Register of Madrid, Reference 2017/1758, dated
 on July 27th 2017.
-* **Contact mail**: hello@icofunding.com
+* **Contact mail**: info@icofunding.com
 * **Website**: http://icofunding.com
 
 ## Terms and Conditions of Use
@@ -84,7 +84,7 @@ Blog or in the Forums, either interventions which result in personal matter be
 allowed, or by insults, comments, constructive criticism or mere allusions that
 might infringe the right to the privacy of Users of icofunding.com or persons or
 entities outside of the Organization. Any User will be able to inform of the existence
-of such interventions reporting across the e-mail: hello@icofunding.com.
+of such interventions reporting across the e-mail: info@icofunding.com.
 
 It is not allowed to use the Blog or forum for spam, off-topic advertising, capture
 email addresses or any illegal action.
