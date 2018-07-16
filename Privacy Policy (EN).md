@@ -11,137 +11,121 @@ at dpo@icofunding.com
 ICOFUNDING will collect the following information provided by the User by completing the contact forms on the
 Website:
 
-**CONTACT form**: to deal with and manage the information requests sent by the User with this form.
+#### CONTACT form: 
 
-Data collected: name, phone, email and comments.
-Purpose: to deal with requests for information about the company, its services or any other
-users’ requirements.
-Storage limitation: data will be kept for the time necessary to answer the questions asked by
-the User and then for a maximum period of one year.
-Legitimate Base: based on the User´s consent ICOFUNDING is entitled to treat the data
-provided through the contact form.
+For any matter connected with the processing of data of natural persons by ICOFUNDING you may contact the email address rgpd@company.com, or else you may also get in touch with our Data Protection Delegate by way of the following email address dpo@company.com.
 
-**RECRUITMENT**: we process job applicants data received spontaneously or through the adverts we post
-on LinkedIn during the hiring processes.
+ICOFUNDING will collect the following information provided by the data subject:
 
-* Data collected: professional expertise area, name, surname, telephone, e-mail, CV, cover
-letter, salary expectations.
+#### COMMERCIAL CONTACT
 
-* Purpose: made available to manage current recruitment processes or other openings that may
-arise within ICOFUNDING that fit your professional profile.
+* **Data collected**: name, phone, email and comments.
+* **Purpose**: to deal with requests for information asked by any means about products and services offered by ICOFUNDING, and for the establishment or maintenance of business relationships.
+* **Lawful basis**: based on the consent given by the data subject, ICOFUNDING is entitled to process the data provided through the contact request, and in accordance with the legitimate interest in the development and maintenance of business relationships.
+* **Storage limitation**: data will be kept until the moment the data subject requests their cancellation or erasure and once deleted they will be kept available to the public administration, judges and courts for the time-barring of the actions that may apply to the processing of your data.
 
-* Legitimate Base: legitimate interest.
+#### CURRICULUM OR RECRUITMENT: 
 
-* Storage limitation: applicants data will only be kept for as long as it is necessary for the
-purposes for which it is processed, and then data might be kept blocked and maintained for two
-years at the disposal of Public Administration and Justice Administration in order to determine
-any liability arising from the processing.
+to send Curriculum to Wevern by any means
 
-* NEWSLETTER form: it is used to register those subscribers interested in receiving our Newsletter.
+* **Data collected**: professional expertise area, name, surname, telephone, e-mail, CV, cover letter and other personal data related to the Curriculum or professional profile.
+* **Purpose**: management of the application for the recruitment processes published or for other vacancies according to your professional profile that may arise in the future within the activities of ICOFUNDING.
+* **Storage limitation**: data will be kept until you are awarded a job or until you request their erasure. They will therefore be kept for the time necessary for the purpose of the processing, and once concluded they may be kept for the time-barring of the actions that may apply to the processing of your data.
+* **Lawful basis**: consent granted by the candidate.
+Recipients: data provided and derived from the selection process may be disclosed to:
 
-* Data collected: email address.
+Third companies identified by the data subject and that may be necessary for the candidates
+request for references.
 
-Purpose: to register those subscribers interested in receiving our Newsletters to be up to date with information, news and promotions related to ICOFUNDING activities.
+### PROMOTIONAL OR NEWSLETTER form: 
 
-* Legitimate Base: consent given by the User.
+The submission of information, news, notices, reminders and promotions that may be of your interest, related to the activities of ICOFUNDING and its clients.
 
-* Storage limitation: Users´ data will be kept until the cessation of activity is requested, and
-then data might be kept blocked and maintained for six years at the disposal of Public
-Administration and Justice Administration in order to determine any liability arising from the
-processing.
+* **Data collected**: email address, first name and surname.
+* **Purpose**: the registration of those who are interested in the submission of information, news and promotions, and to establish or maintain business relationships.
+* **Lawful basis**: the provision of data subject&#39;s consent to WEVERN to be registered in promotional services, and the legitimate interest in the development of business relationships.
+* **Storage limitation**: data will be kept until the moment the data subject requests their cancellation or erasure and once deleted they will be kept available to the public administration, judges and courts for the time-barring of the actions that may apply to the processing of your data.
 
-**POTENTIAL ICO LAUNCHERS Form**: collects data from Users who are interested in creating an ICO
-hosted on ICOFUNDING marketplace.
+### ICO LAUNCHERS REGISTRATION form: 
 
-* Data collected: name, surname, telephone, address, email.
+Made available to register ICOFUNDING CLIENTS.
 
-* Purpose: to register those users who get in contact with ICOFUNDING asking for help to know if is possible to organize an ICO on its marketplace.
+* **Data collected**:  name, surname, telephone, address, ID card or document, email personal characteristics, financial information and Ethereum addresses. 
+* **Purpose**: to register those users who are going to launch an ICO.
+* **Legitimate Base**: consent provided by the user.
+* **Storage limitation** these personal data will only be kept for as long as it is necessary for the purposes for which it is processed, and then data might be kept blocked and maintained during six years at the disposal of Public Administration and Justice Administration in order to determine any liability arising from the processing.
 
-* Legitimate Base: consent provided by the user.
 
-* Storage limitation: these personal data will only be kept for as long as it is necessary for the purposes for which it is processed, and then data might be kept blocked and maintained during six years at the disposal of Public Administration and Justice Administration in order to determine any liability arising from the processing.
+### SERVICES PROVIDERS
 
-**CUSTOMER REGISTRATION form**: made available to register ICOFUNDING CLIENTS.
+Individuals and legal persons we process data proceeding from our partners to properly manage the relationship between companies.
 
-* Data collected: name, surname, telephone, address, ID card or document, email personal
-characteristics, financial information.
+* **Data collected**: name, surname, telephone, address, ID card or document, email, employment details, financial information.
+* **Purpose**: management of business relationships with legal persons who are providing with products or services.
+* **Legitimate Base**: consent given by the suppliers.
+* **Storage limitation** these personal data will only be kept for as long as it is necessary for the purposes for which it is processed, and then data might be kept blocked and maintained during six years at the disposal of Public Administration and Justice Administration in order to determine any liability arising from the processing.
 
-* Purpose: to register those users who are going to launch an ICO on ICOFUNDING
-marketplace.
+### BUYERS Form: 
 
-* Legitimate Base: consent provided by the user.
+It enables to register data from Users that want to gain Access to the Ethereum addresses that enable them to make an investment on the ICOs selected by ICOFUNDING.
 
-* Storage limitation: these personal data will only be kept for as long as it is necessary for the
+* **Data collected**: name, surname, email and password.
+* **Purpose**: management of Users who are willing to invest on the ICOs recommended by ICOFUNDING.
+* **Legitimate Base**: consent provided by the user.
+* **Storage limitation**: these personal data will only be kept for as long as it is necessary for the
 purposes for which it is processed, and then data might be kept blocked and maintained during
 six years at the disposal of Public Administration and Justice Administration in order to
 determine any liability arising from the processing.
 
-**SERVICES PROVIDERS**: individuals and legal persons we process data proceeding from our partners to properly manage the relationship between companies.
+### IDENTIFICATION PROCESS form: 
 
-* Data collected: name, surname, telephone, address, ID card or document, email, employment details, financial information.
+Made available to run ICOGUNDING CLIENTS KYC & identity verification services for ICO investors and meet AML regulations.
 
-* Purpose: management of business relationships with legal persons who are providing with products or services.
+* **Data collected**:  name, surname, telephone, address, ID card or document, email personal characteristics, academic, professional and financial information, facial image.
+* **Purpose**: go through ICOFUNDING CLIENTS KYC & identity verification services for ICO investors and meet comply with AML and KYC regulation.
+* **Legitimate Base**: consent provided by the user.
+* **Storage limitation**: these personal data shall only be kept for as long as it is necessary for the purposes for which it is processed, and then data might be kept blocked and maintained during ten years at the disposal of Public Administration and Justice Administration in order to determine any liability arising from the processing.
 
-* Legitimate Base: consent given by the suppliers.
+### CORPORATE SOCIAL NETWORKS registration and monitoring: 
 
-* Plazos de conservación: los datos se conservarán durante el tiempo necesario para la finalidad del tratamiento, y una vez finalizada la misma se podrán conservar por un periodo de seis años a disposición la administración pública, jueces y tribunales, para la atención y defensa de las posibles responsabilidades nacidas del tratamiento.
-
-**BUYERS Form**: it enables to register data from Users that want to gain Access to the Ethereum addresses that enable them to make an investment on the ICOs selected by ICOFUNDING.
-
-* Data collected: name, surname, email and password.
-
-* Purpose: management of Users who are willing to invest on the ICOs recommended by ICOFUNDING.
-
-* Legitimate Base: consent provided by the user.
-
-* Storage limitation: these personal data will only be kept for as long as it is necessary for the
-purposes for which it is processed, and then data might be kept blocked and maintained during
-six years at the disposal of Public Administration and Justice Administration in order to
-determine any liability arising from the processing.
-
-**IDENTIFICATION PROCESS form**: made available to run ICOFUNDING CLIENTS KYC &amp; identity
-verification services for ICO investors and meet AML regulations.
-
-* Data collected: name, surname, telephone, address, ID card or document, email personal
-characteristics, academic, professional and financial information, facial image.
-
-* Purpose: go through ICOFUNDING CLIENTS KYC &amp; identity verification services for ICO
-investors and meet comply with AML and KYC regulation.
-
-* Legitimate Base: consent provided by the user.
-
-* Storage limitation: these personal data shall only be kept for as long as it is necessary for the purposes for which it is processed, and then data might be kept blocked and maintained during ten years at the disposal of Public Administration and Justice Administration in order to determine any liability arising from the processing.
-
-**CORPORATE SOCIAL NETWORKS** registration and monitoring: management of personal data supplied at the time to become a follower. ICOFUNDING corporate social networks accounts are the following:
-
+Management of personal data supplied at the time to become a follower. ICOFUNDING corporate social networks accounts are the following:
 * FACEBOOK: https://www.facebook.com/icofunding/
-* TELEGRAM: https://t.me/icofunding
-https://t.me/icofunding_es
+* TELEGRAM: https://t.me/icofunding ; https://t.me/icofunding_es
 * MEDIUM: https://medium.com/icofunding
 * TWITTER: https://twitter.com/icofunding
 * YOUTUBE: https://www.youtube.com/channel/UCrkTysUkrR-9j5-jaFHTOdA
 * SLACK: slack.icofunding.com/
 * GITHUB: https://github.com/Icofunding
 
-* Data collected: name, surname, email, telephone number.
+* **Data collected**: name, surname, email, telephone number.
+* **Purpose**: follow ICOFUNDING on social networks
+* **Legitimate Base**: consent provided by the user.
+* **Storage limitation**: these personal data shall only be kept for as long as it is necessary for the
+purposes for which it is processed, and then data might be kept blocked and maintained during
+six years at the disposal of Public Administration and Justice Administration in order to
+determine any liability arising from the processing.
 
-* Purpose: follow ICOFUNDING on social networks
+The disclosure of data to third parties is not envisaged, except for the provision of third-party services by data
+processors with which ICOFUNDING has signed the corresponding data processing contract and has verified
+that they are providing sufficient guarantees to implement proper technical and organizational measures which
+are meeting the requirements of the GDPR, guaranteeing the protection of data subjects rights.
 
-* Legitimate Base: consent provided by the user.
+The User has recognized his/her rights of access, rectification or erasure, restriction, objection and portability.
+Likewise, the User shall have the right to withdraw his or her consent for the processing by ICOFUNDING at any
+time. Also, you have the right to lodge a complaint with a supervisory authority.
 
-* Storage limitation: these personal data shall only be kept for as long as it is necessary for the purposes for which it is processed, and then data might be kept blocked and maintained during six years at the disposal of Public Administration and Justice Administration in order to determine any liability arising from the processing.
+The User may exercise his or her rights at any time by sending a communication, attaching a document that
+proves his/her identity and expressly indicating the right he/she wishes to exercise to ICOFUNDING
+headquarters before mentioned or by sending an email to info@cgs.vote.
 
-The disclosure of data to third parties is not envisaged, except for the provision of third-party services by data processors with which ICOFUNDING has signed the corresponding data processing contract and has verified that they are providing sufficient guarantees to implement proper technical and organizational measures which are meeting the requirements of the GDPR, guaranteeing the protection of data subjects rights.
-
-The User has recognized his/her rights of access, rectification or erasure, restriction, objection and portability. Likewise, the User shall have the right to withdraw his or her consent for the processing by ICOFUNDING at any time. Also, you have the right to lodge a complaint with a supervisory authority.
-
-The User may exercise his or her rights at any time by sending a communication, attaching a document that proves his/her identity and expressly indicating the right he/she wishes to exercise to ICOFUNDING headquarters before mentioned or by sending an email to info@icofunding.com.
-
-ICOFUNDING has adopted the necessary technical and organisational measures to guarantee the safety and integrity of the data, and to avoid its modification, loss, processing or any unauthorised access to the same.
-
+ICOFUNDING has adopted the necessary technical and organisational measures to guarantee the safety and
+integrity of the data, and to avoid its modification, loss, processing or any unauthorised access to the same.
 The User expressly accepts the content of the legal notice that regulates the provision of services.
 
-Data collected from the forms on this Website are those strictly necessary to meet your request, which you voluntarily communicate us. The refusal to provide data marked as mandatory shall impede the provision of the services requested. Likewise, data may be provided voluntarily with the aim of providing the services offered in the best possible way.
+Data collected from the forms on this Website are those strictly necessary to meet your request, which you
+voluntarily communicate us. The refusal to provide data marked as mandatory shall impede the provision of the
+services requested. Likewise, data may be provided voluntarily with the aim of providing the services offered in
+the best possible way.
 
 The USER agrees that in case of third party’s data disclosure, he/she undertakes to inform the data subject about
 the terms indicated in the preceding paragraphs.
@@ -149,4 +133,9 @@ the terms indicated in the preceding paragraphs.
 The user undertakes to notify as soon as possible any modification and rectification of his/her personal data for
 ICOFUNDING to keep its processing activities records updated at all times.
 
-By virtue of ICOFUNDING´s legitimate interest, your data may be used to send you commercial correspondence, including via electronic means related to the services promoted by ICOFUNDING. You may object to the processing of your personal data for such commercial communications purpose by sending an email to info@icofunding.com.
+By virtue of ICOFUNDING's legitimate interest, your data may be used to send you commercial correspondence,
+including via electronic means related to the services promoted by ICOFUNDING. You may object to the
+processing of your personal data for such commercial communications purpose by sending an email to
+info@cgs.vote.
+
+Last update JULY 16th, 2018.
