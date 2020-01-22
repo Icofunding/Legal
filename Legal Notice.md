@@ -153,7 +153,7 @@ party.
 
 ## Privacy Policy of icofunding.com.
 
-For more information about our data protection and privacy policy see ourPrivacy
+For more information about our data protection and privacy policy see our Privacy
 policy
 
 ## Use of cookies
